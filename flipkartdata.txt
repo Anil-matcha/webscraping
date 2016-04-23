@@ -1072,7 +1072,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
     FKART.login.userPhoneNumber = "";
 </script>
 <script type="text/javascript">
-    window.__FK = "V2de10b6b6778506fcdcbce67af5cd96e2s2e32P2A/aj8/Pz9VPyEyPz8/f2uJIpIMDpfWrKkrcMx6e4M9gJvLXu9KDINiGCOudgFFaZaEBlIyMzuRSClBOEq7CdCacBMuljLiUAXJWvVmOw+4SaF7GQ08TBpNgU3+gPRPE8PFKtjcqVipGW+a6I4v2nkXVGPVrriYos3OaGvzCvmS19rHbT1sKd8lK1c9HG6SwHCbUGCmYp7PRu2hitrYZukOtJeT+H+F5Co2lcz4UeOWj0Eo9/NrL3uWwyjrD6V5xhL1zpEdtB1GjfsgKqd6yA==";
+    window.__FK = "V2da4590f6572a29cf32580bd26c20a259s2e31aFk/HRQ/Qz8yPz8/SEJ8Xql78FbPYAcq+lT0ShXjoEpBVabTqw/ndokvG+Q4YyVHeS961R9r7fu017Dwvev6KwwTdrqiN/TActyMG8KQ38YldWbikqFLMc386vmhBjfsOTHzdF/OGp2tW8Dvk47D9FU2BoCoWqbmtw5OHKb+t9nhjikwwOT8ZN4ViDlfZcraLxPzUcTfpdsK1OedOItJWTa341W+daC8ODGlbioTTt6fX8i1RKpvE02cPfRtzbUUYDxhF9x2ZBnRsyLrHEClSQ==";
 </script>
 <div id="login-signup-newDialog" class="line hidden">
     <div class="line">
@@ -1140,8 +1140,8 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
             <div class="login-social-wrap">
                 <div class="login-bottom-msg tmargin30 fk-font-12">Recover your social account</div>
                 <div class="tmargin10 login-btn-wrap">
-                    <a href="/sc/fb_login?__Fk=V2de10b6b6778506fcdcbce67af5cd96e2s2e32P2A%2Faj8%2FPz9VPyEyPz8%2Ff2uJIpIMDpfWrKkrcMx6e4M9gJvLXu9KDINiGCOudgFFaZaEBlIyMzuRSClBOEq7CdCacBMuljLiUAXJWvVmOw%2B4SaF7GQ08TBpNgU3%2BgPRPE8PFKtjcqVipGW%2Ba6I4v2nkXVGPVrriYos3OaGvzCvmS19rHbT1sKd8lK1c9HG6SwHCbUGCmYp7PRu2hitrYZukOtJeT%2BH%2BF5Co2lcz4UeOWj0Eo9%2FNrL3uWwyjrD6V5xhL1zpEdtB1GjfsgKqd6yA%3D%3D&rd=%2Fsearch%3Fq%3Dlaptop%26sid%3Dsearch.flipkart.com%26storePath%3Dsearch.flipkart.com%26type%3Dpr%26redirectToResponseURL%3Dfalse%26redirection%3Dtrue" class="fk-button-social social_fb rmargin10" alt="Facebook" title="Facebook"></a>
-                    <a href="/sc/google_login?__Fk=V2de10b6b6778506fcdcbce67af5cd96e2s2e32P2A%2Faj8%2FPz9VPyEyPz8%2Ff2uJIpIMDpfWrKkrcMx6e4M9gJvLXu9KDINiGCOudgFFaZaEBlIyMzuRSClBOEq7CdCacBMuljLiUAXJWvVmOw%2B4SaF7GQ08TBpNgU3%2BgPRPE8PFKtjcqVipGW%2Ba6I4v2nkXVGPVrriYos3OaGvzCvmS19rHbT1sKd8lK1c9HG6SwHCbUGCmYp7PRu2hitrYZukOtJeT%2BH%2BF5Co2lcz4UeOWj0Eo9%2FNrL3uWwyjrD6V5xhL1zpEdtB1GjfsgKqd6yA%3D%3D&rd=%2Fsearch%3Fq%3Dlaptop%26sid%3Dsearch.flipkart.com%26storePath%3Dsearch.flipkart.com%26type%3Dpr%26redirectToResponseURL%3Dfalse%26redirection%3Dtrue" class="fk-button-social social_google" alt="Google" title="Google"></a>
+                    <a href="/sc/fb_login?__Fk=V2da4590f6572a29cf32580bd26c20a259s2e31aFk%2FHRQ%2FQz8yPz8%2FSEJ8Xql78FbPYAcq%2BlT0ShXjoEpBVabTqw%2FndokvG%2BQ4YyVHeS961R9r7fu017Dwvev6KwwTdrqiN%2FTActyMG8KQ38YldWbikqFLMc386vmhBjfsOTHzdF%2FOGp2tW8Dvk47D9FU2BoCoWqbmtw5OHKb%2Bt9nhjikwwOT8ZN4ViDlfZcraLxPzUcTfpdsK1OedOItJWTa341W%2BdaC8ODGlbioTTt6fX8i1RKpvE02cPfRtzbUUYDxhF9x2ZBnRsyLrHEClSQ%3D%3D&rd=%2Fsearch%3Fq%3Dlaptop%26sid%3Dsearch.flipkart.com%26storePath%3Dsearch.flipkart.com%26type%3Dpr%26redirectToResponseURL%3Dfalse%26redirection%3Dtrue" class="fk-button-social social_fb rmargin10" alt="Facebook" title="Facebook"></a>
+                    <a href="/sc/google_login?__Fk=V2da4590f6572a29cf32580bd26c20a259s2e31aFk%2FHRQ%2FQz8yPz8%2FSEJ8Xql78FbPYAcq%2BlT0ShXjoEpBVabTqw%2FndokvG%2BQ4YyVHeS961R9r7fu017Dwvev6KwwTdrqiN%2FTActyMG8KQ38YldWbikqFLMc386vmhBjfsOTHzdF%2FOGp2tW8Dvk47D9FU2BoCoWqbmtw5OHKb%2Bt9nhjikwwOT8ZN4ViDlfZcraLxPzUcTfpdsK1OedOItJWTa341W%2BdaC8ODGlbioTTt6fX8i1RKpvE02cPfRtzbUUYDxhF9x2ZBnRsyLrHEClSQ%3D%3D&rd=%2Fsearch%3Fq%3Dlaptop%26sid%3Dsearch.flipkart.com%26storePath%3Dsearch.flipkart.com%26type%3Dpr%26redirectToResponseURL%3Dfalse%26redirection%3Dtrue" class="fk-button-social social_google" alt="Google" title="Google"></a>
                 </div>
             </div>
         </div>
@@ -1424,7 +1424,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
             Showing <span class="range">1 - 20</span>
             <span class="of">of</span>
             <span class="count fk-hidden">20</span>
-            <span class="items">2,020</span>
+            <span class="items">2,016</span>
         </div>
             <div class="fk-font-13 font-dark-color unit"><span class="lpadding5 rpadding10 font-dark-color">IN:</span></div>
             <div id="selectedFilters" class="sel-filters unit font-font-13 fk-fontlight fk-text-left">
@@ -1582,14 +1582,14 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
                                 <a href="/laptops/pr?sid=6bo,b5g&p[]=facets.price_range%5B%5D=Rs.+20001+-+Rs.+30000" class=" active ">
                                     <input autocomplete="off" class="facetoption" type="checkbox" value="facets.price_range%5B%5D=Rs.+20001+-+Rs.+30000"  >
                                     <span class="title fk-inline-block lmargin5" original="Rs. 20001 - Rs. 30000">Rs. 20001 - Rs. 30000</span>
-                                        <span class="count">535</span>
+                                        <span class="count">537</span>
                                 </a>
                             </li>
                             <li class="facet " title="Rs. 30001 - Rs. 40000">
                                 <a href="/laptops/pr?sid=6bo,b5g&p[]=facets.price_range%5B%5D=Rs.+30001+-+Rs.+40000" class=" active ">
                                     <input autocomplete="off" class="facetoption" type="checkbox" value="facets.price_range%5B%5D=Rs.+30001+-+Rs.+40000"  >
                                     <span class="title fk-inline-block lmargin5" original="Rs. 30001 - Rs. 40000">Rs. 30001 - Rs. 40000</span>
-                                        <span class="count">578</span>
+                                        <span class="count">577</span>
                                 </a>
                             </li>
                             <li class="facet " title="Rs. 40001 - Rs. 50000">
@@ -1603,14 +1603,14 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
                                 <a href="/laptops/pr?sid=6bo,b5g&p[]=facets.price_range%5B%5D=Rs.+50001+-+Rs.+60000" class=" active ">
                                     <input autocomplete="off" class="facetoption" type="checkbox" value="facets.price_range%5B%5D=Rs.+50001+-+Rs.+60000"  >
                                     <span class="title fk-inline-block lmargin5" original="Rs. 50001 - Rs. 60000">Rs. 50001 - Rs. 60000</span>
-                                        <span class="count">133</span>
+                                        <span class="count">132</span>
                                 </a>
                             </li>
                             <li class="facet " title="Rs. 60001 and Above">
                                 <a href="/laptops/pr?sid=6bo,b5g&p[]=facets.price_range%5B%5D=Rs.+60001+and+Above" class=" active ">
                                     <input autocomplete="off" class="facetoption" type="checkbox" value="facets.price_range%5B%5D=Rs.+60001+and+Above"  >
                                     <span class="title fk-inline-block lmargin5" original="Rs. 60001 and Above">Rs. 60001 and Above</span>
-                                        <span class="count">200</span>
+                                        <span class="count">201</span>
                                 </a>
                             </li>
             </ul>
@@ -3345,7 +3345,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
                                 <a href="/laptops/pr?sid=6bo,b5g&p[]=facets.availability%5B%5D=Exclude+Out+of+Stock" class=" active ">
                                     <input autocomplete="off" class="facetoption" type="checkbox" value="facets.availability%5B%5D=Exclude+Out+of+Stock"  >
                                     <span class="title fk-inline-block lmargin5" original="Exclude Out of Stock">Exclude Out of Stock</span>
-                                        <span class="count">587</span>
+                                        <span class="count">592</span>
                                 </a>
                             </li>
             </ul>
@@ -3460,7 +3460,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
         <div class='pu-visual-section'>
 
             <a data-tracking-id="prd_img"  class='pu-image fk-product-thumb '
-               href="/hp-15-af114au-p3c92pa-acj-apu-quad-core-a8-4-gb-ddr3-1-tb-hdd-windows-10-notebook/p/itmeae7xhwzk9auy?pid=COMEAE7XDPMSAMRW&al=MQaObcQuusPgcyPMkVwMScldugMWZuE75aUsiwTbcEN7yrs5t0ztNfmvL0eXeTLPWq%2FH%2FWEU%2B44%3D&ref=L%3A6414643135253269464&srno=p_1&otracker=from-search">
+               href="/hp-15-af114au-p3c92pa-acj-apu-quad-core-a8-4-gb-ddr3-1-tb-hdd-windows-10-notebook/p/itmeae7xhwzk9auy?pid=COMEAE7XDPMSAMRW&al=VrcVQ8ks7lg3Hwupb3uDScldugMWZuE75aUsiwTbcEN7yrs5t0ztNfmvL0eXeTLPWq%2FH%2FWEU%2B44%3D&ref=L%3A-8293790811367717538&srno=p_1&otracker=from-search">
                 <img alt="HP 15-af114AU P3C92PA#ACJ APU Quad Core A8 - (4 GB DDR3/1 TB HDD/Windows 10) Notebook"
                      data-error-url="http://img1a.flixcart.com/img/thumb-default.jpg"
                      onload="lzld(this)"
@@ -3479,7 +3479,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
         </div>
        <div class="pu-details lastUnit">
            <div class="pu-title fk-font-13">
-               <a class="fk-display-block" data-tracking-id="prd_title" href="/hp-15-af114au-p3c92pa-acj-apu-quad-core-a8-4-gb-ddr3-1-tb-hdd-windows-10-notebook/p/itmeae7xhwzk9auy?pid=COMEAE7XDPMSAMRW&al=MQaObcQuusPgcyPMkVwMScldugMWZuE75aUsiwTbcEN7yrs5t0ztNfmvL0eXeTLPWq%2FH%2FWEU%2B44%3D&ref=L%3A6414643135253269464&srno=p_1&otracker=from-search" title="HP 15-af114AU P3C92PA#ACJ APU Quad Core A8 - (4 GB DDR3/1 TB HDD/Windows 10) Notebook (15.6 inch, Turbo SIlver Color With Diamond & Cross Brush Pattern) ">
+               <a class="fk-display-block" data-tracking-id="prd_title" href="/hp-15-af114au-p3c92pa-acj-apu-quad-core-a8-4-gb-ddr3-1-tb-hdd-windows-10-notebook/p/itmeae7xhwzk9auy?pid=COMEAE7XDPMSAMRW&al=VrcVQ8ks7lg3Hwupb3uDScldugMWZuE75aUsiwTbcEN7yrs5t0ztNfmvL0eXeTLPWq%2FH%2FWEU%2B44%3D&ref=L%3A-8293790811367717538&srno=p_1&otracker=from-search" title="HP 15-af114AU P3C92PA#ACJ APU Quad Core A8 - (4 GB DDR3/1 TB HDD/Windows 10) Notebook (15.6 inch, Turbo SIlver Color With Diamond & Cross Brush Pattern) ">
                    HP 15-af114AU P3C92PA#ACJ APU Quad Core A8 - (4 GB DDR3...
                </a>
            </div>
@@ -3492,10 +3492,10 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
                <div class="pu-rating" data-ctrl="ReviewPopupCtrl" data-ratingfor="ITMEAE7XHWZK9AUY#COMEAE7XDPMSAMRW#hp-15-af114au-p3c92pa#acj-apu-quad-core-a8---(4-gb-ddr3/1-tb-hdd/windows-10)-notebook">
 
                     <div class='fk-stars-small' title ='4 stars'>
-                           <div class='rating' style='width:80.9658432006836%;'></div>
+                           <div class='rating' style='width:81.00820541381836%;'></div>
                     </div>
 
-                    (849  ratings)
+                    (853  ratings)
                     <span class="ugc-summary-icon"></span>
 
                </div>
@@ -3518,7 +3518,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
 
 
         <div class="more-listing-options fk-smallfont tpadding5 bpadding5">
-            <a href="/hp-15-af114au-p3c92pa-acj-apu-quad-core-a8-4-gb-ddr3-1-tb-hdd-windows-10-notebook/p/itmeae7xhwzk9auy?pid=COMEAE7XDPMSAMRW&al=MQaObcQuusPgcyPMkVwMScldugMWZuE75aUsiwTbcEN7yrs5t0ztNfmvL0eXeTLPWq%2FH%2FWEU%2B44%3D&ref=L%3A6414643135253269464&srno=p_1&otracker=from-search&primarySection=SELLER_TABLE&sellersSortedBy=PRICE" class="fk-underline">3  Sellers</a> from <span class="fk-bold">Rs 25,991</span>
+            <a href="/hp-15-af114au-p3c92pa-acj-apu-quad-core-a8-4-gb-ddr3-1-tb-hdd-windows-10-notebook/p/itmeae7xhwzk9auy?pid=COMEAE7XDPMSAMRW&al=VrcVQ8ks7lg3Hwupb3uDScldugMWZuE75aUsiwTbcEN7yrs5t0ztNfmvL0eXeTLPWq%2FH%2FWEU%2B44%3D&ref=L%3A-8293790811367717538&srno=p_1&otracker=from-search&primarySection=SELLER_TABLE&sellersSortedBy=PRICE" class="fk-underline">3  Sellers</a> from <span class="fk-bold">Rs 25,991</span>
         </div>
 
                </div>
@@ -3535,7 +3535,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
             <div class="swatch-container" data-pid="COMEAE7XDPMSAMRW" data-sid="6bo,b5g"></div>
 
                  <div class="pu-compare pu-border-top">
-                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:6414643135253269464" id="COMEAE7XDPMSAMRW"
+                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:-8293790811367717538" id="COMEAE7XDPMSAMRW"
                         display_vertical='computer' vertical="computer" />
                         <label for="COMEAE7XDPMSAMRW" class="compare-label">Add to compare</label>
                 </div>
@@ -3595,7 +3595,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
         <div class='pu-visual-section'>
 
             <a data-tracking-id="prd_img"  class='pu-image fk-product-thumb '
-               href="/lenovo-g50-80-g-series-80e5039eih-core-i3-5th-gen-4-gb-ddr3-1-tb-hdd-free-dos-notebook/p/itmeff7mz8zsz6av?pid=COMEFF7MSBFJTAWQ&al=MQaObcQuusPgcyPMkVwMScldugMWZuE75aUsiwTbcEN88Fj49Z2Ocz7WXnf5wV%2FVuwj4P4ig0Ac%3D&ref=L%3A6414643135253269464&srno=p_2&otracker=from-search">
+               href="/lenovo-g50-80-g-series-80e5039eih-core-i3-5th-gen-4-gb-ddr3-1-tb-hdd-free-dos-notebook/p/itmeff7mz8zsz6av?pid=COMEFF7MSBFJTAWQ&al=VrcVQ8ks7lg3Hwupb3uDScldugMWZuE75aUsiwTbcEN88Fj49Z2Oc%2FFG5qKca8EJq5aYpJ%2BsD8Y%3D&ref=L%3A-8293790811367717538&srno=p_2&otracker=from-search">
                 <img alt="Lenovo G50-80 G Series G50-80 80E5039EIH Core i3 (5th Gen) - (4 GB DDR3/1 TB HDD/Free DOS) Notebook"
                      data-error-url="http://img1a.flixcart.com/img/thumb-default.jpg"
                      onload="lzld(this)"
@@ -3614,7 +3614,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
         </div>
        <div class="pu-details lastUnit">
            <div class="pu-title fk-font-13">
-               <a class="fk-display-block" data-tracking-id="prd_title" href="/lenovo-g50-80-g-series-80e5039eih-core-i3-5th-gen-4-gb-ddr3-1-tb-hdd-free-dos-notebook/p/itmeff7mz8zsz6av?pid=COMEFF7MSBFJTAWQ&al=MQaObcQuusPgcyPMkVwMScldugMWZuE75aUsiwTbcEN88Fj49Z2Ocz7WXnf5wV%2FVuwj4P4ig0Ac%3D&ref=L%3A6414643135253269464&srno=p_2&otracker=from-search" title="Lenovo G50-80 G Series G50-80 80E5039EIH Core i3 (5th Gen) - (4 GB DDR3/1 TB HDD/Free DOS) Notebook (15.6 inch, Black) ">
+               <a class="fk-display-block" data-tracking-id="prd_title" href="/lenovo-g50-80-g-series-80e5039eih-core-i3-5th-gen-4-gb-ddr3-1-tb-hdd-free-dos-notebook/p/itmeff7mz8zsz6av?pid=COMEFF7MSBFJTAWQ&al=VrcVQ8ks7lg3Hwupb3uDScldugMWZuE75aUsiwTbcEN88Fj49Z2Oc%2FFG5qKca8EJq5aYpJ%2BsD8Y%3D&ref=L%3A-8293790811367717538&srno=p_2&otracker=from-search" title="Lenovo G50-80 G Series G50-80 80E5039EIH Core i3 (5th Gen) - (4 GB DDR3/1 TB HDD/Free DOS) Notebook (15.6 inch, Black) ">
                    Lenovo G50-80 G Series G50-80 80E5039EIH Core i3 (5th G...
                </a>
            </div>
@@ -3627,10 +3627,10 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
                <div class="pu-rating" data-ctrl="ReviewPopupCtrl" data-ratingfor="ITMEFF7MZ8ZSZ6AV#COMEFF7MSBFJTAWQ#lenovo-g50-80-g-series-g50-80-80e5039eih-core-i3-(5th-gen)---(4-gb-ddr3/1-tb-hdd/free-dos)-notebook">
 
                     <div class='fk-stars-small' title ='4 stars'>
-                           <div class='rating' style='width:77.85714149475098%;'></div>
+                           <div class='rating' style='width:80.0%;'></div>
                     </div>
 
-                    (28  ratings)
+                    (27  ratings)
                     <span class="ugc-summary-icon"></span>
 
                </div>
@@ -3641,10 +3641,10 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
 
                <div class="pu-border-top">
                    <div class="pu-final">
-                                <span class="fk-font-17 fk-bold 11">Rs. 26,490</span><br>
+                                <span class="fk-font-17 fk-bold 11">Rs. 26,770</span><br>
 
                    </div>
-                            <div class="pu-emi fk-font-12">EMI from Rs. 1,285 </div>
+                            <div class="pu-emi fk-font-12">EMI from Rs. 1,298 </div>
 
                    <ul class="pu-offers">
 
@@ -3667,7 +3667,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
             <div class="swatch-container" data-pid="COMEFF7MSBFJTAWQ" data-sid="6bo,b5g"></div>
 
                  <div class="pu-compare pu-border-top">
-                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:6414643135253269464" id="COMEFF7MSBFJTAWQ"
+                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:-8293790811367717538" id="COMEFF7MSBFJTAWQ"
                         display_vertical='computer' vertical="computer" />
                         <label for="COMEFF7MSBFJTAWQ" class="compare-label">Add to compare</label>
                 </div>
@@ -3727,7 +3727,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
         <div class='pu-visual-section'>
 
             <a data-tracking-id="prd_img"  class='pu-image fk-product-thumb '
-               href="/hp-ac184tu-ac-series-t0x61pa-intel-core-i3-5th-gen-4-gb-ddr3-1-tb-hdd-free-dos-128-mb-graphics-notebook/p/itmecfmt7wyeumbc?pid=COMECFMT9VYMAPQ7&al=MQaObcQuusPgcyPMkVwMScldugMWZuE75aUsiwTbcEPRhgJOx%2FdUHc6jZogxUqM88ctS%2B%2Fickdg%3D&ref=L%3A6414643135253269464&srno=p_3&otracker=from-search">
+               href="/hp-ac184tu-ac-series-t0x61pa-intel-core-i3-5th-gen-4-gb-ddr3-1-tb-hdd-free-dos-128-mb-graphics-notebook/p/itmecfmt7wyeumbc?pid=COMECFMT9VYMAPQ7&al=VrcVQ8ks7lg3Hwupb3uDScldugMWZuE75aUsiwTbcEPRhgJOx%2FdUHfg3OERaQgCr4cWddzAPe%2Bc%3D&ref=L%3A-8293790811367717538&srno=p_3&otracker=from-search">
                 <img alt="HP AC184TU AC SERIES AC184TU T0X61PA Intel Core i3 (5th Gen) - (4 GB DDR3/1 TB HDD/Free DOS/128 MB Graphics) Notebook"
                      data-error-url="http://img1a.flixcart.com/img/thumb-default.jpg"
                      onload="lzld(this)"
@@ -3746,7 +3746,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
         </div>
        <div class="pu-details lastUnit">
            <div class="pu-title fk-font-13">
-               <a class="fk-display-block" data-tracking-id="prd_title" href="/hp-ac184tu-ac-series-t0x61pa-intel-core-i3-5th-gen-4-gb-ddr3-1-tb-hdd-free-dos-128-mb-graphics-notebook/p/itmecfmt7wyeumbc?pid=COMECFMT9VYMAPQ7&al=MQaObcQuusPgcyPMkVwMScldugMWZuE75aUsiwTbcEPRhgJOx%2FdUHc6jZogxUqM88ctS%2B%2Fickdg%3D&ref=L%3A6414643135253269464&srno=p_3&otracker=from-search" title="HP AC184TU AC SERIES AC184TU T0X61PA Intel Core i3 (5th Gen) - (4 GB DDR3/1 TB HDD/Free DOS/128 MB Graphics) Notebook (15.6 inch, Jack Black) ">
+               <a class="fk-display-block" data-tracking-id="prd_title" href="/hp-ac184tu-ac-series-t0x61pa-intel-core-i3-5th-gen-4-gb-ddr3-1-tb-hdd-free-dos-128-mb-graphics-notebook/p/itmecfmt7wyeumbc?pid=COMECFMT9VYMAPQ7&al=VrcVQ8ks7lg3Hwupb3uDScldugMWZuE75aUsiwTbcEPRhgJOx%2FdUHfg3OERaQgCr4cWddzAPe%2Bc%3D&ref=L%3A-8293790811367717538&srno=p_3&otracker=from-search" title="HP AC184TU AC SERIES AC184TU T0X61PA Intel Core i3 (5th Gen) - (4 GB DDR3/1 TB HDD/Free DOS/128 MB Graphics) Notebook (15.6 inch, Jack Black) ">
                    HP AC184TU AC SERIES AC184TU T0X61PA Intel Core i3 (5th...
                </a>
            </div>
@@ -3759,10 +3759,10 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
                <div class="pu-rating" data-ctrl="ReviewPopupCtrl" data-ratingfor="ITMECFMT7WYEUMBC#COMECFMT9VYMAPQ7#hp-ac184tu-ac-series-ac184tu-t0x61pa-intel-core-i3-(5th-gen)---(4-gb-ddr3/1-tb-hdd/free-dos/128-mb-graphics)-notebook">
 
                     <div class='fk-stars-small' title ='3 stars'>
-                           <div class='rating' style='width:66.50000095367432%;'></div>
+                           <div class='rating' style='width:66.34146213531494%;'></div>
                     </div>
 
-                    (40  ratings)
+                    (41  ratings)
                     <span class="ugc-summary-icon"></span>
 
                </div>
@@ -3773,10 +3773,10 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
 
                <div class="pu-border-top">
                    <div class="pu-final">
-                                <span class="fk-font-17 fk-bold 11">Rs. 27,970</span><br>
+                                <span class="fk-font-17 fk-bold 11">Rs. 27,900</span><br>
 
                    </div>
-                            <div class="pu-emi fk-font-12">EMI from Rs. 1,357 </div>
+                            <div class="pu-emi fk-font-12">EMI from Rs. 1,353 </div>
 
                    <ul class="pu-offers">
 
@@ -3784,9 +3784,6 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
                    </ul>
 
 
-        <div class="more-listing-options fk-smallfont tpadding5 bpadding5">
-            <a href="/hp-ac184tu-ac-series-t0x61pa-intel-core-i3-5th-gen-4-gb-ddr3-1-tb-hdd-free-dos-128-mb-graphics-notebook/p/itmecfmt7wyeumbc?pid=COMECFMT9VYMAPQ7&al=MQaObcQuusPgcyPMkVwMScldugMWZuE75aUsiwTbcEPRhgJOx%2FdUHc6jZogxUqM88ctS%2B%2Fickdg%3D&ref=L%3A6414643135253269464&srno=p_3&otracker=from-search&primarySection=SELLER_TABLE&sellersSortedBy=PRICE" class="fk-underline">4  Sellers</a> from <span class="fk-bold">Rs 27,900</span>
-        </div>
 
                </div>
            </div>
@@ -3802,7 +3799,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
             <div class="swatch-container" data-pid="COMECFMT9VYMAPQ7" data-sid="6bo,b5g"></div>
 
                  <div class="pu-compare pu-border-top">
-                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:6414643135253269464" id="COMECFMT9VYMAPQ7"
+                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:-8293790811367717538" id="COMECFMT9VYMAPQ7"
                         display_vertical='computer' vertical="computer" />
                         <label for="COMECFMT9VYMAPQ7" class="compare-label">Add to compare</label>
                 </div>
@@ -3862,7 +3859,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
         <div class='pu-visual-section'>
 
             <a data-tracking-id="prd_img"  class='pu-image fk-product-thumb '
-               href="/lenovo-ideapad-100-14ibd-80rk002uih-core-i3-5th-gen-4-gb-ddr3-500-hdd-windows-10-notebook/p/itmefqk9hf98zmgz?pid=COMEFQK9PPTWZVNJ&al=MQaObcQuusPgcyPMkVwMScldugMWZuE75aUsiwTbcEMw%2BN%2FjkKRhQgo9jJ9LA5Nz1JTCNlH7C4Y%3D&ref=L%3A6414643135253269464&srno=p_4&otracker=from-search">
+               href="/lenovo-ideapad-100-14ibd-80rk002uih-core-i3-5th-gen-4-gb-ddr3-500-hdd-windows-10-notebook/p/itmefqk9hf98zmgz?pid=COMEFQK9PPTWZVNJ&al=VrcVQ8ks7lg3Hwupb3uDScldugMWZuE75aUsiwTbcEMw%2BN%2FjkKRhQgo9jJ9LA5Nz1JTCNlH7C4Y%3D&ref=L%3A-8293790811367717538&srno=p_4&otracker=from-search">
                 <img alt="Lenovo IdeaPad 100-14IBD 80RK002UIH Core i3 (5th Gen) - (4 GB DDR3/500 GB HDD/Windows 10) Notebook"
                      data-error-url="http://img1a.flixcart.com/img/thumb-default.jpg"
                      onload="lzld(this)"
@@ -3882,7 +3879,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
         </div>
        <div class="pu-details lastUnit">
            <div class="pu-title fk-font-13">
-               <a class="fk-display-block" data-tracking-id="prd_title" href="/lenovo-ideapad-100-14ibd-80rk002uih-core-i3-5th-gen-4-gb-ddr3-500-hdd-windows-10-notebook/p/itmefqk9hf98zmgz?pid=COMEFQK9PPTWZVNJ&al=MQaObcQuusPgcyPMkVwMScldugMWZuE75aUsiwTbcEMw%2BN%2FjkKRhQgo9jJ9LA5Nz1JTCNlH7C4Y%3D&ref=L%3A6414643135253269464&srno=p_4&otracker=from-search" title="Lenovo IdeaPad 100-14IBD 80RK002UIH Core i3 (5th Gen) - (4 GB DDR3/500 GB HDD/Windows 10) Notebook (14 inch, Black) ">
+               <a class="fk-display-block" data-tracking-id="prd_title" href="/lenovo-ideapad-100-14ibd-80rk002uih-core-i3-5th-gen-4-gb-ddr3-500-hdd-windows-10-notebook/p/itmefqk9hf98zmgz?pid=COMEFQK9PPTWZVNJ&al=VrcVQ8ks7lg3Hwupb3uDScldugMWZuE75aUsiwTbcEMw%2BN%2FjkKRhQgo9jJ9LA5Nz1JTCNlH7C4Y%3D&ref=L%3A-8293790811367717538&srno=p_4&otracker=from-search" title="Lenovo IdeaPad 100-14IBD 80RK002UIH Core i3 (5th Gen) - (4 GB DDR3/500 GB HDD/Windows 10) Notebook (14 inch, Black) ">
                    Lenovo IdeaPad 100-14IBD 80RK002UIH Core i3 (5th Gen) -...
                </a>
            </div>
@@ -3935,7 +3932,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
             <div class="swatch-container" data-pid="COMEFQK9PPTWZVNJ" data-sid="6bo,b5g"></div>
 
                  <div class="pu-compare pu-border-top">
-                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:6414643135253269464" id="COMEFQK9PPTWZVNJ"
+                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:-8293790811367717538" id="COMEFQK9PPTWZVNJ"
                         display_vertical='computer' vertical="computer" />
                         <label for="COMEFQK9PPTWZVNJ" class="compare-label">Add to compare</label>
                 </div>
@@ -4002,7 +3999,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
         <div class='pu-visual-section'>
 
             <a data-tracking-id="prd_img"  class='pu-image fk-product-thumb '
-               href="/hp-15-ac123tx-n8m28pa-core-i5-5th-gen-4-gb-ddr3-1-tb-hdd-windows-10-2-graphics-notebook/p/itmeaz94ppsxf3t8?pid=COMEAZ94GT9UZYGG&al=MQaObcQuusPgcyPMkVwMScldugMWZuE75aUsiwTbcEPy47XkxdEHtURyALn0rZV20MwsJ%2BVk1PE%3D&ref=L%3A6414643135253269464&srno=p_5&otracker=from-search">
+               href="/hp-15-ac123tx-n8m28pa-core-i5-5th-gen-4-gb-ddr3-1-tb-hdd-windows-10-2-graphics-notebook/p/itmeaz94ppsxf3t8?pid=COMEAZ94GT9UZYGG&al=VrcVQ8ks7lg3Hwupb3uDScldugMWZuE75aUsiwTbcEPy47XkxdEHtdrTylhJedGeWxXDJORvmf8%3D&ref=L%3A-8293790811367717538&srno=p_5&otracker=from-search">
                 <img alt="HP 15-ac123tx N8M28PA Core i5 (5th Gen) - (4 GB DDR3/1 TB HDD/Windows 10/2 GB Graphics) Notebook"
                      data-error-url="http://img1a.flixcart.com/img/thumb-default.jpg"
                      onload="lzld(this)"
@@ -4021,7 +4018,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
         </div>
        <div class="pu-details lastUnit">
            <div class="pu-title fk-font-13">
-               <a class="fk-display-block" data-tracking-id="prd_title" href="/hp-15-ac123tx-n8m28pa-core-i5-5th-gen-4-gb-ddr3-1-tb-hdd-windows-10-2-graphics-notebook/p/itmeaz94ppsxf3t8?pid=COMEAZ94GT9UZYGG&al=MQaObcQuusPgcyPMkVwMScldugMWZuE75aUsiwTbcEPy47XkxdEHtURyALn0rZV20MwsJ%2BVk1PE%3D&ref=L%3A6414643135253269464&srno=p_5&otracker=from-search" title="HP 15-ac123tx N8M28PA Core i5 (5th Gen) - (4 GB DDR3/1 TB HDD/Windows 10/2 GB Graphics) Notebook (15.6 inch, Turbo SIlver) ">
+               <a class="fk-display-block" data-tracking-id="prd_title" href="/hp-15-ac123tx-n8m28pa-core-i5-5th-gen-4-gb-ddr3-1-tb-hdd-windows-10-2-graphics-notebook/p/itmeaz94ppsxf3t8?pid=COMEAZ94GT9UZYGG&al=VrcVQ8ks7lg3Hwupb3uDScldugMWZuE75aUsiwTbcEPy47XkxdEHtdrTylhJedGeWxXDJORvmf8%3D&ref=L%3A-8293790811367717538&srno=p_5&otracker=from-search" title="HP 15-ac123tx N8M28PA Core i5 (5th Gen) - (4 GB DDR3/1 TB HDD/Windows 10/2 GB Graphics) Notebook (15.6 inch, Turbo SIlver) ">
                    HP 15-ac123tx N8M28PA Core i5 (5th Gen) - (4 GB DDR3/1 ...
                </a>
            </div>
@@ -4048,10 +4045,10 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
 
                <div class="pu-border-top">
                    <div class="pu-final">
-                                <span class="fk-font-17 fk-bold 11">Rs. 44,990</span><br>
+                                <span class="fk-font-17 fk-bold 11">Rs. 43,400</span><br>
 
                    </div>
-                            <div class="pu-emi fk-font-12">EMI from Rs. 2,182 </div>
+                            <div class="pu-emi fk-font-12">EMI from Rs. 2,105 </div>
 
                    <ul class="pu-offers">
 
@@ -4074,7 +4071,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
             <div class="swatch-container" data-pid="COMEAZ94GT9UZYGG" data-sid="6bo,b5g"></div>
 
                  <div class="pu-compare pu-border-top">
-                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:6414643135253269464" id="COMEAZ94GT9UZYGG"
+                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:-8293790811367717538" id="COMEAZ94GT9UZYGG"
                         display_vertical='computer' vertical="computer" />
                         <label for="COMEAZ94GT9UZYGG" class="compare-label">Add to compare</label>
                 </div>
@@ -4134,7 +4131,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
         <div class='pu-visual-section'>
 
             <a data-tracking-id="prd_img"  class='pu-image fk-product-thumb '
-               href="/hp-15-ac170tu-p6l83pa-acj-core-i3-5th-gen-4-gb-ddr3-500-hdd-free-dos-notebook/p/itmebbdzhc3npfhg?pid=COMEBBDZUTTFJ78F&al=MQaObcQuusPgcyPMkVwMScldugMWZuE75aUsiwTbcEMkQT%2BGnwV9%2FQw37CzdKqKMLLLvhttzbIU%3D&ref=L%3A6414643135253269464&srno=p_6&otracker=from-search">
+               href="/hp-15-ac170tu-p6l83pa-acj-core-i3-5th-gen-4-gb-ddr3-500-hdd-free-dos-notebook/p/itmebbdzhc3npfhg?pid=COMEBBDZUTTFJ78F&al=VrcVQ8ks7lg3Hwupb3uDScldugMWZuE75aUsiwTbcEMkQT%2BGnwV9%2FQw37CzdKqKMLLLvhttzbIU%3D&ref=L%3A-8293790811367717538&srno=p_6&otracker=from-search">
                 <img alt="HP 15-ac170tu P6L83PA#ACJ Core i3 (5th Gen) - (4 GB DDR3/500 GB HDD/Free DOS) Notebook"
                      data-error-url="http://img1a.flixcart.com/img/thumb-default.jpg"
                      onload="lzld(this)"
@@ -4154,7 +4151,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
         </div>
        <div class="pu-details lastUnit">
            <div class="pu-title fk-font-13">
-               <a class="fk-display-block" data-tracking-id="prd_title" href="/hp-15-ac170tu-p6l83pa-acj-core-i3-5th-gen-4-gb-ddr3-500-hdd-free-dos-notebook/p/itmebbdzhc3npfhg?pid=COMEBBDZUTTFJ78F&al=MQaObcQuusPgcyPMkVwMScldugMWZuE75aUsiwTbcEMkQT%2BGnwV9%2FQw37CzdKqKMLLLvhttzbIU%3D&ref=L%3A6414643135253269464&srno=p_6&otracker=from-search" title="HP 15-ac170tu P6L83PA#ACJ Core i3 (5th Gen) - (4 GB DDR3/500 GB HDD/Free DOS) Notebook (15.6 inch, Black) ">
+               <a class="fk-display-block" data-tracking-id="prd_title" href="/hp-15-ac170tu-p6l83pa-acj-core-i3-5th-gen-4-gb-ddr3-500-hdd-free-dos-notebook/p/itmebbdzhc3npfhg?pid=COMEBBDZUTTFJ78F&al=VrcVQ8ks7lg3Hwupb3uDScldugMWZuE75aUsiwTbcEMkQT%2BGnwV9%2FQw37CzdKqKMLLLvhttzbIU%3D&ref=L%3A-8293790811367717538&srno=p_6&otracker=from-search" title="HP 15-ac170tu P6L83PA#ACJ Core i3 (5th Gen) - (4 GB DDR3/500 GB HDD/Free DOS) Notebook (15.6 inch, Black) ">
                    HP 15-ac170tu P6L83PA#ACJ Core i3 (5th Gen) - (4 GB DDR...
                </a>
            </div>
@@ -4207,7 +4204,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
             <div class="swatch-container" data-pid="COMEBBDZUTTFJ78F" data-sid="6bo,b5g"></div>
 
                  <div class="pu-compare pu-border-top">
-                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:6414643135253269464" id="COMEBBDZUTTFJ78F"
+                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:-8293790811367717538" id="COMEBBDZUTTFJ78F"
                         display_vertical='computer' vertical="computer" />
                         <label for="COMEBBDZUTTFJ78F" class="compare-label">Add to compare</label>
                 </div>
@@ -4267,7 +4264,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
         <div class='pu-visual-section'>
 
             <a data-tracking-id="prd_img"  class='pu-image fk-product-thumb '
-               href="/lenovo-g50-g-series-y700-15isk-80e3020bih-apu-quad-core-a8-6th-gen-4-gb-ddr3-1-tb-hdd-windows-10-notebook/p/itmefggpvhxm5wzt?pid=COMEFGGPGSQRMSY3&al=MQaObcQuusPgcyPMkVwMScldugMWZuE75aUsiwTbcEPFx40k%2Fvi8TCf5fcQVGrdBfmYsaOLhdKU%3D&ref=L%3A6414643135253269464&srno=p_7&otracker=from-search">
+               href="/lenovo-g50-g-series-y700-15isk-80e3020bih-apu-quad-core-a8-6th-gen-4-gb-ddr3-1-tb-hdd-windows-10-notebook/p/itmefggpvhxm5wzt?pid=COMEFGGPGSQRMSY3&al=VrcVQ8ks7lg3Hwupb3uDScldugMWZuE75aUsiwTbcEPFx40k%2Fvi8TCf5fcQVGrdBfmYsaOLhdKU%3D&ref=L%3A-8293790811367717538&srno=p_7&otracker=from-search">
                 <img alt="Lenovo G50 G Series Y700-15ISK 80E3020BIH Apu Quad Core A8(6th Gen) - (4 GB DDR3/1 TB HDD/Windows 10) Notebook"
                      data-error-url="http://img1a.flixcart.com/img/thumb-default.jpg"
                      onload="lzld(this)"
@@ -4287,7 +4284,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
         </div>
        <div class="pu-details lastUnit">
            <div class="pu-title fk-font-13">
-               <a class="fk-display-block" data-tracking-id="prd_title" href="/lenovo-g50-g-series-y700-15isk-80e3020bih-apu-quad-core-a8-6th-gen-4-gb-ddr3-1-tb-hdd-windows-10-notebook/p/itmefggpvhxm5wzt?pid=COMEFGGPGSQRMSY3&al=MQaObcQuusPgcyPMkVwMScldugMWZuE75aUsiwTbcEPFx40k%2Fvi8TCf5fcQVGrdBfmYsaOLhdKU%3D&ref=L%3A6414643135253269464&srno=p_7&otracker=from-search" title="Lenovo G50 G Series Y700-15ISK 80E3020BIH Apu Quad Core A8(6th Gen) - (4 GB DDR3/1 TB HDD/Windows 10) Notebook (15.6 inch, Black) ">
+               <a class="fk-display-block" data-tracking-id="prd_title" href="/lenovo-g50-g-series-y700-15isk-80e3020bih-apu-quad-core-a8-6th-gen-4-gb-ddr3-1-tb-hdd-windows-10-notebook/p/itmefggpvhxm5wzt?pid=COMEFGGPGSQRMSY3&al=VrcVQ8ks7lg3Hwupb3uDScldugMWZuE75aUsiwTbcEPFx40k%2Fvi8TCf5fcQVGrdBfmYsaOLhdKU%3D&ref=L%3A-8293790811367717538&srno=p_7&otracker=from-search" title="Lenovo G50 G Series Y700-15ISK 80E3020BIH Apu Quad Core A8(6th Gen) - (4 GB DDR3/1 TB HDD/Windows 10) Notebook (15.6 inch, Black) ">
                    Lenovo G50 G Series Y700-15ISK 80E3020BIH Apu Quad Core...
                </a>
            </div>
@@ -4340,7 +4337,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
             <div class="swatch-container" data-pid="COMEFGGPGSQRMSY3" data-sid="6bo,b5g"></div>
 
                  <div class="pu-compare pu-border-top">
-                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:6414643135253269464" id="COMEFGGPGSQRMSY3"
+                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:-8293790811367717538" id="COMEFGGPGSQRMSY3"
                         display_vertical='computer' vertical="computer" />
                         <label for="COMEFGGPGSQRMSY3" class="compare-label">Add to compare</label>
                 </div>
@@ -4400,7 +4397,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
         <div class='pu-visual-section'>
 
             <a data-tracking-id="prd_img"  class='pu-image fk-product-thumb '
-               href="/dell-inspiron-15-3541-3541a64500ibu-apu-quad-core-a6-4-gb-ddr3-500-hdd-ubuntu-notebook/p/itmeatzfmy6ydtyt?pid=COMEATZFX9QYGZKY&al=MQaObcQuusMC1QQGm52T5cldugMWZuE75aUsiwTbcEMA99D%2BTaAwtVj3Png4RpQL5jcnG1ucjc0%3D&ref=L%3A6414643135253269464&srno=p_8&otracker=from-search">
+               href="/dell-inspiron-15-3541-3541a64500ibu-apu-quad-core-a6-4-gb-ddr3-500-hdd-ubuntu-notebook/p/itmeatzfmy6ydtyt?pid=COMEATZFX9QYGZKY&al=VrcVQ8ks7lg3Hwupb3uDScldugMWZuE75aUsiwTbcEMA99D%2BTaAwtVj3Png4RpQL5jcnG1ucjc0%3D&ref=L%3A-8293790811367717538&srno=p_8&otracker=from-search">
                 <img alt="Dell Inspiron 15 3541 3541A64500iBU APU Quad Core A6 - (4 GB DDR3/500 GB HDD/Ubuntu) Notebook"
                      data-error-url="http://img1a.flixcart.com/img/thumb-default.jpg"
                      onload="lzld(this)"
@@ -4419,7 +4416,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
         </div>
        <div class="pu-details lastUnit">
            <div class="pu-title fk-font-13">
-               <a class="fk-display-block" data-tracking-id="prd_title" href="/dell-inspiron-15-3541-3541a64500ibu-apu-quad-core-a6-4-gb-ddr3-500-hdd-ubuntu-notebook/p/itmeatzfmy6ydtyt?pid=COMEATZFX9QYGZKY&al=MQaObcQuusMC1QQGm52T5cldugMWZuE75aUsiwTbcEMA99D%2BTaAwtVj3Png4RpQL5jcnG1ucjc0%3D&ref=L%3A6414643135253269464&srno=p_8&otracker=from-search" title="Dell Inspiron 15 3541 3541A64500iBU APU Quad Core A6 - (4 GB DDR3/500 GB HDD/Ubuntu) Notebook (15.6 inch, Black) ">
+               <a class="fk-display-block" data-tracking-id="prd_title" href="/dell-inspiron-15-3541-3541a64500ibu-apu-quad-core-a6-4-gb-ddr3-500-hdd-ubuntu-notebook/p/itmeatzfmy6ydtyt?pid=COMEATZFX9QYGZKY&al=VrcVQ8ks7lg3Hwupb3uDScldugMWZuE75aUsiwTbcEMA99D%2BTaAwtVj3Png4RpQL5jcnG1ucjc0%3D&ref=L%3A-8293790811367717538&srno=p_8&otracker=from-search" title="Dell Inspiron 15 3541 3541A64500iBU APU Quad Core A6 - (4 GB DDR3/500 GB HDD/Ubuntu) Notebook (15.6 inch, Black) ">
                    Dell Inspiron 15 3541 3541A64500iBU APU Quad Core A6 - ...
                </a>
            </div>
@@ -4432,10 +4429,10 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
                <div class="pu-rating" data-ctrl="ReviewPopupCtrl" data-ratingfor="ITMEATZFMY6YDTYT#COMEATZFX9QYGZKY#dell-inspiron-15-3541-3541a64500ibu-apu-quad-core-a6---(4-gb-ddr3/500-gb-hdd/ubuntu)-notebook">
 
                     <div class='fk-stars-small' title ='4 stars'>
-                           <div class='rating' style='width:77.44680881500244%;'></div>
+                           <div class='rating' style='width:77.91666507720947%;'></div>
                     </div>
 
-                    (47  ratings)
+                    (48  ratings)
                     <span class="ugc-summary-icon"></span>
 
                </div>
@@ -4472,7 +4469,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
             <div class="swatch-container" data-pid="COMEATZFX9QYGZKY" data-sid="6bo,b5g"></div>
 
                  <div class="pu-compare pu-border-top">
-                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:6414643135253269464" id="COMEATZFX9QYGZKY"
+                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:-8293790811367717538" id="COMEATZFX9QYGZKY"
                         display_vertical='computer' vertical="computer" />
                         <label for="COMEATZFX9QYGZKY" class="compare-label">Add to compare</label>
                 </div>
@@ -4545,7 +4542,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
         <div class='pu-visual-section'>
 
             <a data-tracking-id="prd_img"  class='pu-image fk-product-thumb '
-               href="/hp-15-ac178tx-t0z57pa-acj-intel-core-i5-6th-gen-8-gb-ddr3-1-tb-hdd-windows-10-2-graphics-notebook/p/itmeeffdgezkkzca?pid=COMEEFFDQ7QCRXQQ&al=MQaObcQuusMC1QQGm52T5cldugMWZuE75aUsiwTbcEMdcPIYky6h%2FYMurMSHCrdcZmpWtML3Cb4%3D&ref=L%3A6414643135253269464&srno=p_9&otracker=from-search">
+               href="/hp-15-ac178tx-t0z57pa-acj-intel-core-i5-6th-gen-8-gb-ddr3-1-tb-hdd-windows-10-2-graphics-notebook/p/itmeeffdgezkkzca?pid=COMEEFFDQ7QCRXQQ&al=VrcVQ8ks7liLGE%2FBfZyDfcldugMWZuE75aUsiwTbcEMdcPIYky6h%2FYMurMSHCrdcZmpWtML3Cb4%3D&ref=L%3A-8293790811367717538&srno=p_9&otracker=from-search">
                 <img alt="HP 15-AC178TX T0Z57PA#ACJ Intel Core i5 (6th Gen) - (8 GB DDR3/1 TB HDD/Windows 10/2 GB Graphics) Notebook"
                      data-error-url="http://img1a.flixcart.com/img/thumb-default.jpg"
                      onload="lzld(this)"
@@ -4565,7 +4562,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
         </div>
        <div class="pu-details lastUnit">
            <div class="pu-title fk-font-13">
-               <a class="fk-display-block" data-tracking-id="prd_title" href="/hp-15-ac178tx-t0z57pa-acj-intel-core-i5-6th-gen-8-gb-ddr3-1-tb-hdd-windows-10-2-graphics-notebook/p/itmeeffdgezkkzca?pid=COMEEFFDQ7QCRXQQ&al=MQaObcQuusMC1QQGm52T5cldugMWZuE75aUsiwTbcEMdcPIYky6h%2FYMurMSHCrdcZmpWtML3Cb4%3D&ref=L%3A6414643135253269464&srno=p_9&otracker=from-search" title="HP 15-AC178TX T0Z57PA#ACJ Intel Core i5 (6th Gen) - (8 GB DDR3/1 TB HDD/Windows 10/2 GB Graphics) Notebook (15.6 inch, SIlver) ">
+               <a class="fk-display-block" data-tracking-id="prd_title" href="/hp-15-ac178tx-t0z57pa-acj-intel-core-i5-6th-gen-8-gb-ddr3-1-tb-hdd-windows-10-2-graphics-notebook/p/itmeeffdgezkkzca?pid=COMEEFFDQ7QCRXQQ&al=VrcVQ8ks7liLGE%2FBfZyDfcldugMWZuE75aUsiwTbcEMdcPIYky6h%2FYMurMSHCrdcZmpWtML3Cb4%3D&ref=L%3A-8293790811367717538&srno=p_9&otracker=from-search" title="HP 15-AC178TX T0Z57PA#ACJ Intel Core i5 (6th Gen) - (8 GB DDR3/1 TB HDD/Windows 10/2 GB Graphics) Notebook (15.6 inch, SIlver) ">
                    HP 15-AC178TX T0Z57PA#ACJ Intel Core i5 (6th Gen) - (8 ...
                </a>
            </div>
@@ -4618,7 +4615,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
             <div class="swatch-container" data-pid="COMEEFFDQ7QCRXQQ" data-sid="6bo,b5g"></div>
 
                  <div class="pu-compare pu-border-top">
-                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:6414643135253269464" id="COMEEFFDQ7QCRXQQ"
+                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:-8293790811367717538" id="COMEEFFDQ7QCRXQQ"
                         display_vertical='computer' vertical="computer" />
                         <label for="COMEEFFDQ7QCRXQQ" class="compare-label">Add to compare</label>
                 </div>
@@ -4678,7 +4675,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
         <div class='pu-visual-section'>
 
             <a data-tracking-id="prd_img"  class='pu-image fk-product-thumb '
-               href="/hp-15-ac169tu-p6l81pa-acj-pentium-dual-core-4-gb-ddr3-1-tb-hdd-free-dos-notebook/p/itmef372zfzzkcfx?pid=COMEF372BH2EP9NH&al=MQaObcQuusMC1QQGm52T5cldugMWZuE75aUsiwTbcEObUi6GZSerrAm7PSJx6wH0Oift%2BHA38Ao%3D&ref=L%3A6414643135253269464&srno=p_10&otracker=from-search">
+               href="/hp-15-ac169tu-p6l81pa-acj-pentium-dual-core-4-gb-ddr3-1-tb-hdd-free-dos-notebook/p/itmef372zfzzkcfx?pid=COMEF372BH2EP9NH&al=VrcVQ8ks7liLGE%2FBfZyDfcldugMWZuE75aUsiwTbcEObUi6GZSerrAm7PSJx6wH0Oift%2BHA38Ao%3D&ref=L%3A-8293790811367717538&srno=p_10&otracker=from-search">
                 <img alt="HP 15-ac169TU P6L81PA#ACJ Pentium Dual Core - (4 GB DDR3/1 TB HDD/Free DOS) Notebook"
                      data-error-url="http://img1a.flixcart.com/img/thumb-default.jpg"
                      onload="lzld(this)"
@@ -4698,7 +4695,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
         </div>
        <div class="pu-details lastUnit">
            <div class="pu-title fk-font-13">
-               <a class="fk-display-block" data-tracking-id="prd_title" href="/hp-15-ac169tu-p6l81pa-acj-pentium-dual-core-4-gb-ddr3-1-tb-hdd-free-dos-notebook/p/itmef372zfzzkcfx?pid=COMEF372BH2EP9NH&al=MQaObcQuusMC1QQGm52T5cldugMWZuE75aUsiwTbcEObUi6GZSerrAm7PSJx6wH0Oift%2BHA38Ao%3D&ref=L%3A6414643135253269464&srno=p_10&otracker=from-search" title="HP 15-ac169TU P6L81PA#ACJ Pentium Dual Core - (4 GB DDR3/1 TB HDD/Free DOS) Notebook (15.6 inch, Jack Black Color With Textured Diamond Pattern) ">
+               <a class="fk-display-block" data-tracking-id="prd_title" href="/hp-15-ac169tu-p6l81pa-acj-pentium-dual-core-4-gb-ddr3-1-tb-hdd-free-dos-notebook/p/itmef372zfzzkcfx?pid=COMEF372BH2EP9NH&al=VrcVQ8ks7liLGE%2FBfZyDfcldugMWZuE75aUsiwTbcEObUi6GZSerrAm7PSJx6wH0Oift%2BHA38Ao%3D&ref=L%3A-8293790811367717538&srno=p_10&otracker=from-search" title="HP 15-ac169TU P6L81PA#ACJ Pentium Dual Core - (4 GB DDR3/1 TB HDD/Free DOS) Notebook (15.6 inch, Jack Black Color With Textured Diamond Pattern) ">
                    HP 15-ac169TU P6L81PA#ACJ Pentium Dual Core - (4 GB DDR...
                </a>
            </div>
@@ -4736,6 +4733,9 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
                    </ul>
 
 
+        <div class="more-listing-options fk-smallfont tpadding5 bpadding5">
+            <a href="/hp-15-ac169tu-p6l81pa-acj-pentium-dual-core-4-gb-ddr3-1-tb-hdd-free-dos-notebook/p/itmef372zfzzkcfx?pid=COMEF372BH2EP9NH&al=VrcVQ8ks7liLGE%2FBfZyDfcldugMWZuE75aUsiwTbcEObUi6GZSerrAm7PSJx6wH0Oift%2BHA38Ao%3D&ref=L%3A-8293790811367717538&srno=p_10&otracker=from-search&primarySection=SELLER_TABLE&sellersSortedBy=PRICE" class="fk-underline">4  Sellers</a> from <span class="fk-bold">Rs 21,989</span>
+        </div>
 
                </div>
            </div>
@@ -4751,7 +4751,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
             <div class="swatch-container" data-pid="COMEF372BH2EP9NH" data-sid="6bo,b5g"></div>
 
                  <div class="pu-compare pu-border-top">
-                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:6414643135253269464" id="COMEF372BH2EP9NH"
+                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:-8293790811367717538" id="COMEF372BH2EP9NH"
                         display_vertical='computer' vertical="computer" />
                         <label for="COMEF372BH2EP9NH" class="compare-label">Add to compare</label>
                 </div>
@@ -4811,7 +4811,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
         <div class='pu-visual-section'>
 
             <a data-tracking-id="prd_img"  class='pu-image fk-product-thumb '
-               href="/lenovo-g50-80-80e5038pin-intel-core-i5-5th-gen-8-gb-ddr3-1-tb-hdd-windows-10-2-graphics-notebook/p/itmebh7v5c2fsjby?pid=COMEBH7VFP2HFXGU&al=MQaObcQuusMC1QQGm52T5cldugMWZuE75aUsiwTbcENrBd4C6qBVbUS5ZGcfdoQGJdHm8ssXnDA%3D&ref=L%3A6414643135253269464&srno=p_11&otracker=from-search">
+               href="/lenovo-g50-80-80e5038pin-intel-core-i5-5th-gen-8-gb-ddr3-1-tb-hdd-windows-10-2-graphics-notebook/p/itmebh7v5c2fsjby?pid=COMEBH7VFP2HFXGU&al=VrcVQ8ks7liLGE%2FBfZyDfcldugMWZuE75aUsiwTbcENrBd4C6qBVbUS5ZGcfdoQGJdHm8ssXnDA%3D&ref=L%3A-8293790811367717538&srno=p_11&otracker=from-search">
                 <img alt="Lenovo G50-80 80E5038PIN Intel Core i5 (5th Gen) - (8 GB DDR3/1 TB HDD/Windows 10/2 GB Graphics) Notebook"
                      data-error-url="http://img1a.flixcart.com/img/thumb-default.jpg"
                      onload="lzld(this)"
@@ -4831,7 +4831,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
         </div>
        <div class="pu-details lastUnit">
            <div class="pu-title fk-font-13">
-               <a class="fk-display-block" data-tracking-id="prd_title" href="/lenovo-g50-80-80e5038pin-intel-core-i5-5th-gen-8-gb-ddr3-1-tb-hdd-windows-10-2-graphics-notebook/p/itmebh7v5c2fsjby?pid=COMEBH7VFP2HFXGU&al=MQaObcQuusMC1QQGm52T5cldugMWZuE75aUsiwTbcENrBd4C6qBVbUS5ZGcfdoQGJdHm8ssXnDA%3D&ref=L%3A6414643135253269464&srno=p_11&otracker=from-search" title="Lenovo G50-80 80E5038PIN Intel Core i5 (5th Gen) - (8 GB DDR3/1 TB HDD/Windows 10/2 GB Graphics) Notebook (15.6 inch, Black) ">
+               <a class="fk-display-block" data-tracking-id="prd_title" href="/lenovo-g50-80-80e5038pin-intel-core-i5-5th-gen-8-gb-ddr3-1-tb-hdd-windows-10-2-graphics-notebook/p/itmebh7v5c2fsjby?pid=COMEBH7VFP2HFXGU&al=VrcVQ8ks7liLGE%2FBfZyDfcldugMWZuE75aUsiwTbcENrBd4C6qBVbUS5ZGcfdoQGJdHm8ssXnDA%3D&ref=L%3A-8293790811367717538&srno=p_11&otracker=from-search" title="Lenovo G50-80 80E5038PIN Intel Core i5 (5th Gen) - (8 GB DDR3/1 TB HDD/Windows 10/2 GB Graphics) Notebook (15.6 inch, Black) ">
                    Lenovo G50-80 80E5038PIN Intel Core i5 (5th Gen) - (8 G...
                </a>
            </div>
@@ -4870,7 +4870,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
 
 
         <div class="more-listing-options fk-smallfont tpadding5 bpadding5">
-            <a href="/lenovo-g50-80-80e5038pin-intel-core-i5-5th-gen-8-gb-ddr3-1-tb-hdd-windows-10-2-graphics-notebook/p/itmebh7v5c2fsjby?pid=COMEBH7VFP2HFXGU&al=MQaObcQuusMC1QQGm52T5cldugMWZuE75aUsiwTbcENrBd4C6qBVbUS5ZGcfdoQGJdHm8ssXnDA%3D&ref=L%3A6414643135253269464&srno=p_11&otracker=from-search&primarySection=SELLER_TABLE&sellersSortedBy=PRICE" class="fk-underline">3  Sellers</a> from <span class="fk-bold">Rs 45,990</span>
+            <a href="/lenovo-g50-80-80e5038pin-intel-core-i5-5th-gen-8-gb-ddr3-1-tb-hdd-windows-10-2-graphics-notebook/p/itmebh7v5c2fsjby?pid=COMEBH7VFP2HFXGU&al=VrcVQ8ks7liLGE%2FBfZyDfcldugMWZuE75aUsiwTbcENrBd4C6qBVbUS5ZGcfdoQGJdHm8ssXnDA%3D&ref=L%3A-8293790811367717538&srno=p_11&otracker=from-search&primarySection=SELLER_TABLE&sellersSortedBy=PRICE" class="fk-underline">3  Sellers</a> from <span class="fk-bold">Rs 45,990</span>
         </div>
 
                </div>
@@ -4887,7 +4887,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
             <div class="swatch-container" data-pid="COMEBH7VFP2HFXGU" data-sid="6bo,b5g"></div>
 
                  <div class="pu-compare pu-border-top">
-                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:6414643135253269464" id="COMEBH7VFP2HFXGU"
+                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:-8293790811367717538" id="COMEBH7VFP2HFXGU"
                         display_vertical='computer' vertical="computer" />
                         <label for="COMEBH7VFP2HFXGU" class="compare-label">Add to compare</label>
                 </div>
@@ -4947,7 +4947,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
         <div class='pu-visual-section'>
 
             <a data-tracking-id="prd_img"  class='pu-image fk-product-thumb '
-               href="/lenovo-g50-45-80e3003qin-apu-dual-core-e1-2-gb-ddr3-500-hdd-free-dos-notebook/p/itme79zkgjvukgyf?pid=COME79ZKVQTMEQCK&al=MQaObcQuusMC1QQGm52T5cldugMWZuE75aUsiwTbcEMLZX2VkXMvlcF52831h90UpDZrzt%2FCOzQ%3D&ref=L%3A6414643135253269464&srno=p_12&otracker=from-search">
+               href="/lenovo-g50-45-80e3003qin-apu-dual-core-e1-2-gb-ddr3-500-hdd-free-dos-notebook/p/itme79zkgjvukgyf?pid=COME79ZKVQTMEQCK&al=VrcVQ8ks7liLGE%2FBfZyDfcldugMWZuE75aUsiwTbcEMLZX2VkXMvlYLWdqVjem7CwErb0c4%2BcF4%3D&ref=L%3A-8293790811367717538&srno=p_12&otracker=from-search">
                 <img alt="Lenovo G50-45 80E3003QIN APU Dual Core E1 - (2 GB DDR3/500 GB HDD/Free DOS) Notebook"
                      data-error-url="http://img1a.flixcart.com/img/thumb-default.jpg"
                      onload="lzld(this)"
@@ -4966,7 +4966,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
         </div>
        <div class="pu-details lastUnit">
            <div class="pu-title fk-font-13">
-               <a class="fk-display-block" data-tracking-id="prd_title" href="/lenovo-g50-45-80e3003qin-apu-dual-core-e1-2-gb-ddr3-500-hdd-free-dos-notebook/p/itme79zkgjvukgyf?pid=COME79ZKVQTMEQCK&al=MQaObcQuusMC1QQGm52T5cldugMWZuE75aUsiwTbcEMLZX2VkXMvlcF52831h90UpDZrzt%2FCOzQ%3D&ref=L%3A6414643135253269464&srno=p_12&otracker=from-search" title="Lenovo G50-45 80E3003QIN APU Dual Core E1 - (2 GB DDR3/500 GB HDD/Free DOS) Notebook (15.6 inch, Black) ">
+               <a class="fk-display-block" data-tracking-id="prd_title" href="/lenovo-g50-45-80e3003qin-apu-dual-core-e1-2-gb-ddr3-500-hdd-free-dos-notebook/p/itme79zkgjvukgyf?pid=COME79ZKVQTMEQCK&al=VrcVQ8ks7liLGE%2FBfZyDfcldugMWZuE75aUsiwTbcEMLZX2VkXMvlYLWdqVjem7CwErb0c4%2BcF4%3D&ref=L%3A-8293790811367717538&srno=p_12&otracker=from-search" title="Lenovo G50-45 80E3003QIN APU Dual Core E1 - (2 GB DDR3/500 GB HDD/Free DOS) Notebook (15.6 inch, Black) ">
                    Lenovo G50-45 80E3003QIN APU Dual Core E1 - (2 GB DDR3/...
                </a>
            </div>
@@ -4993,10 +4993,10 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
 
                <div class="pu-border-top">
                    <div class="pu-final">
-                                <span class="fk-font-17 fk-bold 11">Rs. 19,990</span><br>
+                                <span class="fk-font-17 fk-bold 11">Rs. 20,500</span><br>
 
                    </div>
-                            <div class="pu-emi fk-font-12">EMI from Rs. 970 </div>
+                            <div class="pu-emi fk-font-12">EMI from Rs. 994 </div>
 
                    <ul class="pu-offers">
 
@@ -5020,7 +5020,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
             <div class="swatch-container" data-pid="COME79ZKVQTMEQCK" data-sid="6bo,b5g"></div>
 
                  <div class="pu-compare pu-border-top">
-                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:6414643135253269464" id="COME79ZKVQTMEQCK"
+                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:-8293790811367717538" id="COME79ZKVQTMEQCK"
                         display_vertical='computer' vertical="computer" />
                         <label for="COME79ZKVQTMEQCK" class="compare-label">Add to compare</label>
                 </div>
@@ -5087,7 +5087,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
         <div class='pu-visual-section'>
 
             <a data-tracking-id="prd_img"  class='pu-image fk-product-thumb '
-               href="/dell-vostro-15-3000-3558-dv3558c4500d-celeron-dual-core-4-gb-ddr3-500-hdd-ubuntu-notebook/p/itme9yjkkbgqshg8?pid=COME9YJK7VTFRPTN&al=MQaObcQuusMC1QQGm52T5cldugMWZuE75aUsiwTbcEPBWTb33yaDVf1hM6fSZkj%2BS2%2BRL4Y6aoE%3D&ref=L%3A6414643135253269464&srno=p_13&otracker=from-search">
+               href="/dell-vostro-15-3000-3558-dv3558c4500d-celeron-dual-core-4-gb-ddr3-500-hdd-ubuntu-notebook/p/itme9yjkkbgqshg8?pid=COME9YJK7VTFRPTN&al=VrcVQ8ks7liLGE%2FBfZyDfcldugMWZuE75aUsiwTbcEPBWTb33yaDVSw%2FDn4o0mTQodLg6ZW1oW8%3D&ref=L%3A-8293790811367717538&srno=p_13&otracker=from-search">
                 <img alt="Dell Vostro 15 3000 3558 dv3558c4500d Celeron Dual Core - (4 GB DDR3/500 GB HDD/Ubuntu) Notebook"
                      data-error-url="http://img1a.flixcart.com/img/thumb-default.jpg"
                      onload="lzld(this)"
@@ -5106,7 +5106,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
         </div>
        <div class="pu-details lastUnit">
            <div class="pu-title fk-font-13">
-               <a class="fk-display-block" data-tracking-id="prd_title" href="/dell-vostro-15-3000-3558-dv3558c4500d-celeron-dual-core-4-gb-ddr3-500-hdd-ubuntu-notebook/p/itme9yjkkbgqshg8?pid=COME9YJK7VTFRPTN&al=MQaObcQuusMC1QQGm52T5cldugMWZuE75aUsiwTbcEPBWTb33yaDVf1hM6fSZkj%2BS2%2BRL4Y6aoE%3D&ref=L%3A6414643135253269464&srno=p_13&otracker=from-search" title="Dell Vostro 15 3000 3558 dv3558c4500d Celeron Dual Core - (4 GB DDR3/500 GB HDD/Ubuntu) Notebook (15.6 inch, Grey) ">
+               <a class="fk-display-block" data-tracking-id="prd_title" href="/dell-vostro-15-3000-3558-dv3558c4500d-celeron-dual-core-4-gb-ddr3-500-hdd-ubuntu-notebook/p/itme9yjkkbgqshg8?pid=COME9YJK7VTFRPTN&al=VrcVQ8ks7liLGE%2FBfZyDfcldugMWZuE75aUsiwTbcEPBWTb33yaDVSw%2FDn4o0mTQodLg6ZW1oW8%3D&ref=L%3A-8293790811367717538&srno=p_13&otracker=from-search" title="Dell Vostro 15 3000 3558 dv3558c4500d Celeron Dual Core - (4 GB DDR3/500 GB HDD/Ubuntu) Notebook (15.6 inch, Grey) ">
                    Dell Vostro 15 3000 3558 dv3558c4500d Celeron Dual Core...
                </a>
            </div>
@@ -5133,10 +5133,10 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
 
                <div class="pu-border-top">
                    <div class="pu-final">
-                                <span class="fk-font-17 fk-bold 11">Rs. 19,970</span><br>
+                                <span class="fk-font-17 fk-bold 11">Rs. 19,449</span><br>
 
                    </div>
-                            <div class="pu-emi fk-font-12">EMI from Rs. 969 </div>
+                            <div class="pu-emi fk-font-12">EMI from Rs. 944 </div>
 
                    <ul class="pu-offers">
 
@@ -5144,9 +5144,6 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
                    </ul>
 
 
-        <div class="more-listing-options fk-smallfont tpadding5 bpadding5">
-            <a href="/dell-vostro-15-3000-3558-dv3558c4500d-celeron-dual-core-4-gb-ddr3-500-hdd-ubuntu-notebook/p/itme9yjkkbgqshg8?pid=COME9YJK7VTFRPTN&al=MQaObcQuusMC1QQGm52T5cldugMWZuE75aUsiwTbcEPBWTb33yaDVf1hM6fSZkj%2BS2%2BRL4Y6aoE%3D&ref=L%3A6414643135253269464&srno=p_13&otracker=from-search&primarySection=SELLER_TABLE&sellersSortedBy=PRICE" class="fk-underline">19  Sellers</a> from <span class="fk-bold">Rs 19,490</span>
-        </div>
 
                </div>
            </div>
@@ -5162,7 +5159,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
             <div class="swatch-container" data-pid="COME9YJK7VTFRPTN" data-sid="6bo,b5g"></div>
 
                  <div class="pu-compare pu-border-top">
-                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:6414643135253269464" id="COME9YJK7VTFRPTN"
+                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:-8293790811367717538" id="COME9YJK7VTFRPTN"
                         display_vertical='computer' vertical="computer" />
                         <label for="COME9YJK7VTFRPTN" class="compare-label">Add to compare</label>
                 </div>
@@ -5222,7 +5219,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
         <div class='pu-visual-section'>
 
             <a data-tracking-id="prd_img"  class='pu-image fk-product-thumb '
-               href="/hp-14-ac108tu-p3c95pa-acj-core-i3-5th-gen-4-gb-ddr3-1-tb-hdd-windows-10-notebook/p/itmedgfvm7pfnhgf?pid=COMEDGFVC8XWQMJG&al=MQaObcQuusMC1QQGm52T5cldugMWZuE75aUsiwTbcEMhPkdj8oRwpdU02D41oXawhK%2FNWzxIgqM%3D&ref=L%3A6414643135253269464&srno=p_14&otracker=from-search">
+               href="/hp-14-ac108tu-p3c95pa-acj-core-i3-5th-gen-4-gb-ddr3-1-tb-hdd-windows-10-notebook/p/itmedgfvm7pfnhgf?pid=COMEDGFVC8XWQMJG&al=VrcVQ8ks7liLGE%2FBfZyDfcldugMWZuE75aUsiwTbcEMhPkdj8oRwpdU02D41oXawhK%2FNWzxIgqM%3D&ref=L%3A-8293790811367717538&srno=p_14&otracker=from-search">
                 <img alt="HP 14-AC108TU P3C95PA#ACJ Core i3 (5th Gen) - (4 GB DDR3/1 TB HDD/Windows 10) Notebook"
                      data-error-url="http://img1a.flixcart.com/img/thumb-default.jpg"
                      onload="lzld(this)"
@@ -5242,7 +5239,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
         </div>
        <div class="pu-details lastUnit">
            <div class="pu-title fk-font-13">
-               <a class="fk-display-block" data-tracking-id="prd_title" href="/hp-14-ac108tu-p3c95pa-acj-core-i3-5th-gen-4-gb-ddr3-1-tb-hdd-windows-10-notebook/p/itmedgfvm7pfnhgf?pid=COMEDGFVC8XWQMJG&al=MQaObcQuusMC1QQGm52T5cldugMWZuE75aUsiwTbcEMhPkdj8oRwpdU02D41oXawhK%2FNWzxIgqM%3D&ref=L%3A6414643135253269464&srno=p_14&otracker=from-search" title="HP 14-AC108TU P3C95PA#ACJ Core i3 (5th Gen) - (4 GB DDR3/1 TB HDD/Windows 10) Notebook (14 inch, Turbo SIlver) ">
+               <a class="fk-display-block" data-tracking-id="prd_title" href="/hp-14-ac108tu-p3c95pa-acj-core-i3-5th-gen-4-gb-ddr3-1-tb-hdd-windows-10-notebook/p/itmedgfvm7pfnhgf?pid=COMEDGFVC8XWQMJG&al=VrcVQ8ks7liLGE%2FBfZyDfcldugMWZuE75aUsiwTbcEMhPkdj8oRwpdU02D41oXawhK%2FNWzxIgqM%3D&ref=L%3A-8293790811367717538&srno=p_14&otracker=from-search" title="HP 14-AC108TU P3C95PA#ACJ Core i3 (5th Gen) - (4 GB DDR3/1 TB HDD/Windows 10) Notebook (14 inch, Turbo SIlver) ">
                    HP 14-AC108TU P3C95PA#ACJ Core i3 (5th Gen) - (4 GB DDR...
                </a>
            </div>
@@ -5295,7 +5292,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
             <div class="swatch-container" data-pid="COMEDGFVC8XWQMJG" data-sid="6bo,b5g"></div>
 
                  <div class="pu-compare pu-border-top">
-                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:6414643135253269464" id="COMEDGFVC8XWQMJG"
+                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:-8293790811367717538" id="COMEDGFVC8XWQMJG"
                         display_vertical='computer' vertical="computer" />
                         <label for="COMEDGFVC8XWQMJG" class="compare-label">Add to compare</label>
                 </div>
@@ -5355,7 +5352,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
         <div class='pu-visual-section'>
 
             <a data-tracking-id="prd_img"  class='pu-image fk-product-thumb '
-               href="/lenovo-ideapad-flex-2-14-59-428487-core-i3-4-gb-ddr3-500-hdd-windows-8-notebook/p/itmdztbqpmcxxmnp?pid=COMDZTBKZG44HZVC&al=MQaObcQuusMC1QQGm52T5cldugMWZuE75aUsiwTbcEOVHz8T9KccPR4c%2FMuKEq7EDmL2V8ho6zs%3D&ref=L%3A6414643135253269464&srno=p_15&otracker=from-search">
+               href="/lenovo-ideapad-flex-2-14-59-428487-core-i3-4-gb-ddr3-500-hdd-windows-8-notebook/p/itmdztbqpmcxxmnp?pid=COMDZTBKZG44HZVC&al=VrcVQ8ks7liLGE%2FBfZyDfcldugMWZuE75aUsiwTbcEOVHz8T9KccPR4c%2FMuKEq7EDmL2V8ho6zs%3D&ref=L%3A-8293790811367717538&srno=p_15&otracker=from-search">
                 <img alt="Lenovo IdeaPad FLEX 2-14 59-428487 Core i3 - (4 GB DDR3/500 GB HDD/Windows 8) Notebook"
                      data-error-url="http://img1a.flixcart.com/img/thumb-default.jpg"
                      onload="lzld(this)"
@@ -5375,7 +5372,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
         </div>
        <div class="pu-details lastUnit">
            <div class="pu-title fk-font-13">
-               <a class="fk-display-block" data-tracking-id="prd_title" href="/lenovo-ideapad-flex-2-14-59-428487-core-i3-4-gb-ddr3-500-hdd-windows-8-notebook/p/itmdztbqpmcxxmnp?pid=COMDZTBKZG44HZVC&al=MQaObcQuusMC1QQGm52T5cldugMWZuE75aUsiwTbcEOVHz8T9KccPR4c%2FMuKEq7EDmL2V8ho6zs%3D&ref=L%3A6414643135253269464&srno=p_15&otracker=from-search" title="Lenovo IdeaPad FLEX 2-14 59-428487 Core i3 - (4 GB DDR3/500 GB HDD/Windows 8) Notebook (13.86 inch, Graphite Grey) ">
+               <a class="fk-display-block" data-tracking-id="prd_title" href="/lenovo-ideapad-flex-2-14-59-428487-core-i3-4-gb-ddr3-500-hdd-windows-8-notebook/p/itmdztbqpmcxxmnp?pid=COMDZTBKZG44HZVC&al=VrcVQ8ks7liLGE%2FBfZyDfcldugMWZuE75aUsiwTbcEOVHz8T9KccPR4c%2FMuKEq7EDmL2V8ho6zs%3D&ref=L%3A-8293790811367717538&srno=p_15&otracker=from-search" title="Lenovo IdeaPad FLEX 2-14 59-428487 Core i3 - (4 GB DDR3/500 GB HDD/Windows 8) Notebook (13.86 inch, Graphite Grey) ">
                    Lenovo IdeaPad FLEX 2-14 59-428487 Core i3 - (4 GB DDR3...
                </a>
            </div>
@@ -5429,7 +5426,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
             <div class="swatch-container" data-pid="COMDZTBKZG44HZVC" data-sid="6bo,b5g"></div>
 
                  <div class="pu-compare pu-border-top">
-                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:6414643135253269464" id="COMDZTBKZG44HZVC"
+                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:-8293790811367717538" id="COMDZTBKZG44HZVC"
                         display_vertical='computer' vertical="computer" />
                         <label for="COMDZTBKZG44HZVC" class="compare-label">Add to compare</label>
                 </div>
@@ -5489,7 +5486,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
         <div class='pu-visual-section'>
 
             <a data-tracking-id="prd_img"  class='pu-image fk-product-thumb '
-               href="/dell-inspiron-15-3551-x560139in9-pentium-quad-core-4-gb-ddr3-500-hdd-ubuntu-notebook/p/itme8z5v2rzqfkmc?pid=COME8Z5V2XYY8DT3&al=MQaObcQuusMC1QQGm52T5cldugMWZuE75aUsiwTbcEPZAu927yWYz0qWFBeAokE8%2BlkWKrnToac%3D&ref=L%3A6414643135253269464&srno=p_16&otracker=from-search">
+               href="/dell-inspiron-15-3551-x560139in9-pentium-quad-core-4-gb-ddr3-500-hdd-ubuntu-notebook/p/itme8z5v2rzqfkmc?pid=COME8Z5V2XYY8DT3&al=VrcVQ8ks7li2E3pdw3qefMldugMWZuE75aUsiwTbcEPZAu927yWYz0qWFBeAokE8%2BlkWKrnToac%3D&ref=L%3A-8293790811367717538&srno=p_16&otracker=from-search">
                 <img alt="Dell Inspiron 15 3551 X560139IN9 Pentium Quad Core - (4 GB DDR3/500 GB HDD/Ubuntu) Notebook"
                      data-error-url="http://img1a.flixcart.com/img/thumb-default.jpg"
                      onload="lzld(this)"
@@ -5508,7 +5505,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
         </div>
        <div class="pu-details lastUnit">
            <div class="pu-title fk-font-13">
-               <a class="fk-display-block" data-tracking-id="prd_title" href="/dell-inspiron-15-3551-x560139in9-pentium-quad-core-4-gb-ddr3-500-hdd-ubuntu-notebook/p/itme8z5v2rzqfkmc?pid=COME8Z5V2XYY8DT3&al=MQaObcQuusMC1QQGm52T5cldugMWZuE75aUsiwTbcEPZAu927yWYz0qWFBeAokE8%2BlkWKrnToac%3D&ref=L%3A6414643135253269464&srno=p_16&otracker=from-search" title="Dell Inspiron 15 3551 X560139IN9 Pentium Quad Core - (4 GB DDR3/500 GB HDD/Ubuntu) Notebook (15.6 inch, Black) ">
+               <a class="fk-display-block" data-tracking-id="prd_title" href="/dell-inspiron-15-3551-x560139in9-pentium-quad-core-4-gb-ddr3-500-hdd-ubuntu-notebook/p/itme8z5v2rzqfkmc?pid=COME8Z5V2XYY8DT3&al=VrcVQ8ks7li2E3pdw3qefMldugMWZuE75aUsiwTbcEPZAu927yWYz0qWFBeAokE8%2BlkWKrnToac%3D&ref=L%3A-8293790811367717538&srno=p_16&otracker=from-search" title="Dell Inspiron 15 3551 X560139IN9 Pentium Quad Core - (4 GB DDR3/500 GB HDD/Ubuntu) Notebook (15.6 inch, Black) ">
                    Dell Inspiron 15 3551 X560139IN9 Pentium Quad Core - (4...
                </a>
            </div>
@@ -5561,7 +5558,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
             <div class="swatch-container" data-pid="COME8Z5V2XYY8DT3" data-sid="6bo,b5g"></div>
 
                  <div class="pu-compare pu-border-top">
-                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:6414643135253269464" id="COME8Z5V2XYY8DT3"
+                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:-8293790811367717538" id="COME8Z5V2XYY8DT3"
                         display_vertical='computer' vertical="computer" />
                         <label for="COME8Z5V2XYY8DT3" class="compare-label">Add to compare</label>
                 </div>
@@ -5577,6 +5574,139 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
     <div class="loaderDiv fk-hidden"></div>
     <div class="results-container"></div>
 </div>    <div class="gd-row browse-grid-row">
+
+
+
+            <div class="gd-col gu3">
+
+
+
+
+    <script type="text/javascript+fk-onload">
+     if (typeof fk_appoffer != 'undefined' && fk_appoffer) {
+            fk_appoffer.addOpenFsn('COME87G5PTTZBV2Y');
+            }
+    </script>
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class='product-unit unit-4 browse-product new-design '
+         data-ctrl="ProductUnitController"
+         data-pid="COME87G5PTTZBV2Y"
+         data-tracking-products=""
+         data-size="store-grid-new-4">
+
+        <div class='pu-visual-section'>
+
+            <a data-tracking-id="prd_img"  class='pu-image fk-product-thumb '
+               href="/lenovo-g40-45-80e10088in-apu-quad-core-a8-8-gb-ddr3-1-tb-hdd-free-dos-2-graphics-notebook/p/itme87g5xtcveuzp?pid=COME87G5PTTZBV2Y&al=VrcVQ8ks7li2E3pdw3qefMldugMWZuE75aUsiwTbcEPKVyMcbxsRKzZFrKfgDUvJKqai3DBPbq0%3D&ref=L%3A-8293790811367717538&srno=p_17&otracker=from-search">
+                <img alt="Lenovo G40-45 80E10088IN APU Quad Core A8 - (8 GB DDR3/1 TB HDD/Free DOS/2 GB Graphics) Notebook"
+                     data-error-url="http://img1a.flixcart.com/img/thumb-default.jpg"
+                     onload="lzld(this)"
+                     onerror="img_onerror(this);"
+                     data-src="http://img6a.flixcart.com/image/computer/v/2/y/lenovo-notebook-125x125-imaee7wam8zzeagw.jpeg"
+                     src="http://img8.flixcart.com/www/prod/images/gray_1x1-81857055.gif" />
+            </a>
+
+
+
+            <a class="shortlist-btn" data-pid="COME87G5PTTZBV2Y" data-vertical="computer">
+                <span class="star-icon"></span>
+                <span class="text">Shortlist</span>
+            </a>
+            <div class="size-container"></div>
+        </div>
+       <div class="pu-details lastUnit">
+           <div class="pu-title fk-font-13">
+               <a class="fk-display-block" data-tracking-id="prd_title" href="/lenovo-g40-45-80e10088in-apu-quad-core-a8-8-gb-ddr3-1-tb-hdd-free-dos-2-graphics-notebook/p/itme87g5xtcveuzp?pid=COME87G5PTTZBV2Y&al=VrcVQ8ks7li2E3pdw3qefMldugMWZuE75aUsiwTbcEPKVyMcbxsRKzZFrKfgDUvJKqai3DBPbq0%3D&ref=L%3A-8293790811367717538&srno=p_17&otracker=from-search" title="Lenovo G40-45 80E10088IN APU Quad Core A8 - (8 GB DDR3/1 TB HDD/Free DOS/2 GB Graphics) Notebook (14 inch, Black) ">
+                   Lenovo G40-45 80E10088IN APU Quad Core A8 - (8 GB DDR3/...
+               </a>
+           </div>
+
+
+
+           <div class="pu-extra fk-font-11">
+           </div>
+
+               <div class="pu-rating" data-ctrl="ReviewPopupCtrl" data-ratingfor="ITME87G5XTCVEUZP#COME87G5PTTZBV2Y#lenovo-g40-45-80e10088in-apu-quad-core-a8---(8-gb-ddr3/1-tb-hdd/free-dos/2-gb-graphics)-notebook">
+
+                    <div class='fk-stars-small' title ='4 stars'>
+                           <div class='rating' style='width:76.9523811340332%;'></div>
+                    </div>
+
+                    (210  ratings)
+                    <span class="ugc-summary-icon"></span>
+
+               </div>
+
+
+
+           <div class="pu-price">
+
+               <div class="pu-border-top">
+                   <div class="pu-final">
+                                <span class="fk-font-17 fk-bold 11">Rs. 26,000</span><br>
+
+                   </div>
+                            <div class="pu-emi fk-font-12">EMI from Rs. 1,261 </div>
+
+                   <ul class="pu-offers">
+
+
+                   </ul>
+
+
+
+               </div>
+           </div>
+
+                <div class="pu-border-top">
+                    <ul class="pu-usp">
+                            <li><span class="text">APU Quad Core A8</span>
+                            <li><span class="text">8 GB DDR3 RAM</span>
+                            <li><span class="text">1 TB HDD</span>
+                            <li><span class="text">Free DOS</span>
+                    </ul>
+                </div>
+
+            <div class="swatch-container" data-pid="COME87G5PTTZBV2Y" data-sid="6bo,b5g"></div>
+
+                 <div class="pu-compare pu-border-top">
+                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:-8293790811367717538" id="COME87G5PTTZBV2Y"
+                        display_vertical='computer' vertical="computer" />
+                        <label for="COME87G5PTTZBV2Y" class="compare-label">Add to compare</label>
+                </div>
+
+
+       </div>
+    </div>
+            </div>
 
 
 
@@ -5628,7 +5758,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
         <div class='pu-visual-section'>
 
             <a data-tracking-id="prd_img"  class='pu-image fk-product-thumb '
-               href="/acer-aspire-e-e5-573g-389u-nx-mvmsi-036-core-i3-5th-gen-8-gb-ddr3-1-tb-hdd-windows-10-2-graphics-notebook/p/itmeck24uz59c8m6?pid=COMECK24KZW4GZWG&al=MQaObcQuusMC1QQGm52T5cldugMWZuE75aUsiwTbcEOmkGzEuHsI6aTkUnwJVmijLoX1DXNTnbY%3D&ref=L%3A6414643135253269464&srno=p_17&otracker=from-search">
+               href="/acer-aspire-e-e5-573g-389u-nx-mvmsi-036-core-i3-5th-gen-8-gb-ddr3-1-tb-hdd-windows-10-2-graphics-notebook/p/itmeck24uz59c8m6?pid=COMECK24KZW4GZWG&al=VrcVQ8ks7li2E3pdw3qefMldugMWZuE75aUsiwTbcEOmkGzEuHsI6aTkUnwJVmijLoX1DXNTnbY%3D&ref=L%3A-8293790811367717538&srno=p_18&otracker=from-search">
                 <img alt="Acer Aspire E E5-573G-389U NX.MVMSI.036 Core i3 (5th Gen) - (8 GB DDR3/1 TB HDD/Windows 10/2 GB Graphics) Notebook"
                      data-error-url="http://img1a.flixcart.com/img/thumb-default.jpg"
                      onload="lzld(this)"
@@ -5648,7 +5778,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
         </div>
        <div class="pu-details lastUnit">
            <div class="pu-title fk-font-13">
-               <a class="fk-display-block" data-tracking-id="prd_title" href="/acer-aspire-e-e5-573g-389u-nx-mvmsi-036-core-i3-5th-gen-8-gb-ddr3-1-tb-hdd-windows-10-2-graphics-notebook/p/itmeck24uz59c8m6?pid=COMECK24KZW4GZWG&al=MQaObcQuusMC1QQGm52T5cldugMWZuE75aUsiwTbcEOmkGzEuHsI6aTkUnwJVmijLoX1DXNTnbY%3D&ref=L%3A6414643135253269464&srno=p_17&otracker=from-search" title="Acer Aspire E E5-573G-389U NX.MVMSI.036 Core i3 (5th Gen) - (8 GB DDR3/1 TB HDD/Windows 10/2 GB Graphics) Notebook (15.6 inch, Charcoal Grey) ">
+               <a class="fk-display-block" data-tracking-id="prd_title" href="/acer-aspire-e-e5-573g-389u-nx-mvmsi-036-core-i3-5th-gen-8-gb-ddr3-1-tb-hdd-windows-10-2-graphics-notebook/p/itmeck24uz59c8m6?pid=COMECK24KZW4GZWG&al=VrcVQ8ks7li2E3pdw3qefMldugMWZuE75aUsiwTbcEOmkGzEuHsI6aTkUnwJVmijLoX1DXNTnbY%3D&ref=L%3A-8293790811367717538&srno=p_18&otracker=from-search" title="Acer Aspire E E5-573G-389U NX.MVMSI.036 Core i3 (5th Gen) - (8 GB DDR3/1 TB HDD/Windows 10/2 GB Graphics) Notebook (15.6 inch, Charcoal Grey) ">
                    Acer Aspire E E5-573G-389U NX.MVMSI.036 Core i3 (5th Ge...
                </a>
            </div>
@@ -5701,7 +5831,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
             <div class="swatch-container" data-pid="COMECK24KZW4GZWG" data-sid="6bo,b5g"></div>
 
                  <div class="pu-compare pu-border-top">
-                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:6414643135253269464" id="COMECK24KZW4GZWG"
+                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:-8293790811367717538" id="COMECK24KZW4GZWG"
                         display_vertical='computer' vertical="computer" />
                         <label for="COMECK24KZW4GZWG" class="compare-label">Add to compare</label>
                 </div>
@@ -5761,7 +5891,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
         <div class='pu-visual-section'>
 
             <a data-tracking-id="prd_img"  class='pu-image fk-product-thumb '
-               href="/asus-a555la-xx2064d-series-xx2064d-90nb0652-m32310-core-i3-5th-gen-4-gb-ddr3-1-tb-hdd-free-dos-notebook/p/itmedk2bj7uejzgj?pid=COMEDK2BBRUQEQFU&al=MQaObcQuusOxj9yCEWfSEMldugMWZuE75aUsiwTbcEOTIbg7sO%2F6SHne6XNUa54q%2FRNPPHuiGAU%3D&ref=L%3A6414643135253269464&srno=p_18&otracker=from-search">
+               href="/asus-a555la-xx2064d-series-xx2064d-90nb0652-m32310-core-i3-5th-gen-4-gb-ddr3-1-tb-hdd-free-dos-notebook/p/itmedk2bj7uejzgj?pid=COMEDK2BBRUQEQFU&al=VrcVQ8ks7li2E3pdw3qefMldugMWZuE75aUsiwTbcEOTIbg7sO%2F6SHne6XNUa54q%2FRNPPHuiGAU%3D&ref=L%3A-8293790811367717538&srno=p_19&otracker=from-search">
                 <img alt="Asus A555LA-XX2064D A Series XX2064D 90NB0652-M32310 Core i3 (5th Gen) - (4 GB DDR3/1 TB HDD/Free DOS) Notebook"
                      data-error-url="http://img1a.flixcart.com/img/thumb-default.jpg"
                      onload="lzld(this)"
@@ -5780,7 +5910,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
         </div>
        <div class="pu-details lastUnit">
            <div class="pu-title fk-font-13">
-               <a class="fk-display-block" data-tracking-id="prd_title" href="/asus-a555la-xx2064d-series-xx2064d-90nb0652-m32310-core-i3-5th-gen-4-gb-ddr3-1-tb-hdd-free-dos-notebook/p/itmedk2bj7uejzgj?pid=COMEDK2BBRUQEQFU&al=MQaObcQuusOxj9yCEWfSEMldugMWZuE75aUsiwTbcEOTIbg7sO%2F6SHne6XNUa54q%2FRNPPHuiGAU%3D&ref=L%3A6414643135253269464&srno=p_18&otracker=from-search" title="Asus A555LA-XX2064D A Series XX2064D 90NB0652-M32310 Core i3 (5th Gen) - (4 GB DDR3/1 TB HDD/Free DOS) Notebook (15.6 inch, Black) ">
+               <a class="fk-display-block" data-tracking-id="prd_title" href="/asus-a555la-xx2064d-series-xx2064d-90nb0652-m32310-core-i3-5th-gen-4-gb-ddr3-1-tb-hdd-free-dos-notebook/p/itmedk2bj7uejzgj?pid=COMEDK2BBRUQEQFU&al=VrcVQ8ks7li2E3pdw3qefMldugMWZuE75aUsiwTbcEOTIbg7sO%2F6SHne6XNUa54q%2FRNPPHuiGAU%3D&ref=L%3A-8293790811367717538&srno=p_19&otracker=from-search" title="Asus A555LA-XX2064D A Series XX2064D 90NB0652-M32310 Core i3 (5th Gen) - (4 GB DDR3/1 TB HDD/Free DOS) Notebook (15.6 inch, Black) ">
                    Asus A555LA-XX2064D A Series XX2064D 90NB0652-M32310 Co...
                </a>
            </div>
@@ -5833,7 +5963,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
             <div class="swatch-container" data-pid="COMEDK2BBRUQEQFU" data-sid="6bo,b5g"></div>
 
                  <div class="pu-compare pu-border-top">
-                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:6414643135253269464" id="COMEDK2BBRUQEQFU"
+                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:-8293790811367717538" id="COMEDK2BBRUQEQFU"
                         display_vertical='computer' vertical="computer" />
                         <label for="COMEDK2BBRUQEQFU" class="compare-label">Add to compare</label>
                 </div>
@@ -5893,7 +6023,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
         <div class='pu-visual-section'>
 
             <a data-tracking-id="prd_img"  class='pu-image fk-product-thumb '
-               href="/hp-15-ac152tx-p6l87pa-acj-intel-core-i5-6th-gen-8-gb-ddr3-1-tb-hdd-free-dos-2-graphics-notebook/p/itmeeffdjaxwvdjz?pid=COMEEFFDM4YTFUSH&al=MQaObcQuusOxj9yCEWfSEMldugMWZuE75aUsiwTbcENKPVBr2Jwv1gApMSp9G%2FB%2BhM7ZG4%2F2SDo%3D&ref=L%3A6414643135253269464&srno=p_19&otracker=from-search">
+               href="/hp-15-ac152tx-p6l87pa-acj-intel-core-i5-6th-gen-8-gb-ddr3-1-tb-hdd-free-dos-2-graphics-notebook/p/itmeeffdjaxwvdjz?pid=COMEEFFDM4YTFUSH&al=VrcVQ8ks7li2E3pdw3qefMldugMWZuE75aUsiwTbcENKPVBr2Jwv1gApMSp9G%2FB%2BhM7ZG4%2F2SDo%3D&ref=L%3A-8293790811367717538&srno=p_20&otracker=from-search">
                 <img alt="HP 15-AC152TX P6L87PA#ACJ Intel Core i5 (6th Gen) - (8 GB DDR3/1 TB HDD/Free DOS/2 GB Graphics) Notebook"
                      data-error-url="http://img1a.flixcart.com/img/thumb-default.jpg"
                      onload="lzld(this)"
@@ -5913,7 +6043,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
         </div>
        <div class="pu-details lastUnit">
            <div class="pu-title fk-font-13">
-               <a class="fk-display-block" data-tracking-id="prd_title" href="/hp-15-ac152tx-p6l87pa-acj-intel-core-i5-6th-gen-8-gb-ddr3-1-tb-hdd-free-dos-2-graphics-notebook/p/itmeeffdjaxwvdjz?pid=COMEEFFDM4YTFUSH&al=MQaObcQuusOxj9yCEWfSEMldugMWZuE75aUsiwTbcENKPVBr2Jwv1gApMSp9G%2FB%2BhM7ZG4%2F2SDo%3D&ref=L%3A6414643135253269464&srno=p_19&otracker=from-search" title="HP 15-AC152TX P6L87PA#ACJ Intel Core i5 (6th Gen) - (8 GB DDR3/1 TB HDD/Free DOS/2 GB Graphics) Notebook (15.6 inch, Turbo SIlver Color With Diamond & Cross Brush Pattern) ">
+               <a class="fk-display-block" data-tracking-id="prd_title" href="/hp-15-ac152tx-p6l87pa-acj-intel-core-i5-6th-gen-8-gb-ddr3-1-tb-hdd-free-dos-2-graphics-notebook/p/itmeeffdjaxwvdjz?pid=COMEEFFDM4YTFUSH&al=VrcVQ8ks7li2E3pdw3qefMldugMWZuE75aUsiwTbcENKPVBr2Jwv1gApMSp9G%2FB%2BhM7ZG4%2F2SDo%3D&ref=L%3A-8293790811367717538&srno=p_20&otracker=from-search" title="HP 15-AC152TX P6L87PA#ACJ Intel Core i5 (6th Gen) - (8 GB DDR3/1 TB HDD/Free DOS/2 GB Graphics) Notebook (15.6 inch, Turbo SIlver Color With Diamond & Cross Brush Pattern) ">
                    HP 15-AC152TX P6L87PA#ACJ Intel Core i5 (6th Gen) - (8 ...
                </a>
            </div>
@@ -5926,10 +6056,10 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
                <div class="pu-rating" data-ctrl="ReviewPopupCtrl" data-ratingfor="ITMEEFFDJAXWVDJZ#COMEEFFDM4YTFUSH#hp-15-ac152tx-p6l87pa#acj-intel-core-i5-(6th-gen)---(8-gb-ddr3/1-tb-hdd/free-dos/2-gb-graphics)-notebook">
 
                     <div class='fk-stars-small' title ='4 stars'>
-                           <div class='rating' style='width:72.6086950302124%;'></div>
+                           <div class='rating' style='width:73.19149017333984%;'></div>
                     </div>
 
-                    (46  ratings)
+                    (47  ratings)
                     <span class="ugc-summary-icon"></span>
 
                </div>
@@ -5966,142 +6096,9 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
             <div class="swatch-container" data-pid="COMEEFFDM4YTFUSH" data-sid="6bo,b5g"></div>
 
                  <div class="pu-compare pu-border-top">
-                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:6414643135253269464" id="COMEEFFDM4YTFUSH"
+                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:-8293790811367717538" id="COMEEFFDM4YTFUSH"
                         display_vertical='computer' vertical="computer" />
                         <label for="COMEEFFDM4YTFUSH" class="compare-label">Add to compare</label>
-                </div>
-
-
-       </div>
-    </div>
-            </div>
-
-
-
-            <div class="gd-col gu3">
-
-
-
-
-    <script type="text/javascript+fk-onload">
-     if (typeof fk_appoffer != 'undefined' && fk_appoffer) {
-            fk_appoffer.addOpenFsn('COME8FFPZ6EACGZ2');
-            }
-    </script>
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    <div class='product-unit unit-4 browse-product new-design '
-         data-ctrl="ProductUnitController"
-         data-pid="COME8FFPZ6EACGZ2"
-         data-tracking-products=""
-         data-size="store-grid-new-4">
-
-        <div class='pu-visual-section'>
-
-            <a data-tracking-id="prd_img"  class='pu-image fk-product-thumb '
-               href="/hp-15-af008ax-n4f83pa-acj-apu-quad-core-a8-4-gb-ddr3-1-tb-hdd-free-dos-2-graphics-notebook/p/itme8ffqegdmj4wc?pid=COME8FFPZ6EACGZ2&al=MQaObcQuusOxj9yCEWfSEMldugMWZuE75aUsiwTbcEN%2Fu1ghiZTwKYrMNynHaUVgFdLfBp88RKo%3D&ref=L%3A6414643135253269464&srno=p_20&otracker=from-search">
-                <img alt="HP 15-af008AX N4F83PA#ACJ APU Quad Core A8 - (4 GB DDR3/1 TB HDD/Free DOS/2 GB Graphics) Notebook"
-                     data-error-url="http://img1a.flixcart.com/img/thumb-default.jpg"
-                     onload="lzld(this)"
-                     onerror="img_onerror(this);"
-                     data-src="http://img6a.flixcart.com/image/computer/g/z/2/hp-notebook-125x125-imaec5sf9sdqcgeh.jpeg"
-                     src="http://img8.flixcart.com/www/prod/images/gray_1x1-81857055.gif" />
-            </a>
-
-               <div class="pu-banner pu-offer fk-uppercase   ">2 offers</div>
-
-
-            <a class="shortlist-btn" data-pid="COME8FFPZ6EACGZ2" data-vertical="computer">
-                <span class="star-icon"></span>
-                <span class="text">Shortlist</span>
-            </a>
-            <div class="size-container"></div>
-        </div>
-       <div class="pu-details lastUnit">
-           <div class="pu-title fk-font-13">
-               <a class="fk-display-block" data-tracking-id="prd_title" href="/hp-15-af008ax-n4f83pa-acj-apu-quad-core-a8-4-gb-ddr3-1-tb-hdd-free-dos-2-graphics-notebook/p/itme8ffqegdmj4wc?pid=COME8FFPZ6EACGZ2&al=MQaObcQuusOxj9yCEWfSEMldugMWZuE75aUsiwTbcEN%2Fu1ghiZTwKYrMNynHaUVgFdLfBp88RKo%3D&ref=L%3A6414643135253269464&srno=p_20&otracker=from-search" title="HP 15-af008AX N4F83PA#ACJ APU Quad Core A8 - (4 GB DDR3/1 TB HDD/Free DOS/2 GB Graphics) Notebook (15.6 inch, Turbo SIlver Color With Diamond & Cross Brush Pattern) ">
-                   HP 15-af008AX N4F83PA#ACJ APU Quad Core A8 - (4 GB DDR3...
-               </a>
-           </div>
-
-
-
-           <div class="pu-extra fk-font-11">
-           </div>
-
-               <div class="pu-rating" data-ctrl="ReviewPopupCtrl" data-ratingfor="ITME8FFQEGDMJ4WC#COME8FFPZ6EACGZ2#hp-15-af008ax-n4f83pa#acj-apu-quad-core-a8---(4-gb-ddr3/1-tb-hdd/free-dos/2-gb-graphics)-notebook">
-
-                    <div class='fk-stars-small' title ='4 stars'>
-                           <div class='rating' style='width:81.33333206176758%;'></div>
-                    </div>
-
-                    (150  ratings)
-                    <span class="ugc-summary-icon"></span>
-
-               </div>
-
-
-
-           <div class="pu-price">
-
-               <div class="pu-border-top">
-                   <div class="pu-final">
-                                <span class="fk-font-17 fk-bold"> Rs. 26,989</span>
-
-                   </div>
-                            <div class="pu-emi fk-font-12">EMI from Rs. 1,309 </div>
-
-                   <ul class="pu-offers">
-
-
-                   </ul>
-
-
-
-               </div>
-           </div>
-
-                <div class="pu-border-top">
-                    <ul class="pu-usp">
-                            <li><span class="text">APU Quad Core A8</span>
-                            <li><span class="text">4 GB DDR3 RAM</span>
-                            <li><span class="text">1 TB HDD</span>
-                    </ul>
-                </div>
-
-            <div class="swatch-container" data-pid="COME8FFPZ6EACGZ2" data-sid="6bo,b5g"></div>
-
-                 <div class="pu-compare pu-border-top">
-                    <input type="checkbox" class="compare-checkbox" data-uniqid="L:6414643135253269464" id="COME8FFPZ6EACGZ2"
-                        display_vertical='computer' vertical="computer" />
-                        <label for="COME8FFPZ6EACGZ2" class="compare-label">Add to compare</label>
                 </div>
 
 
@@ -6604,7 +6601,7 @@ var img_onload=function(a){},img_onerror=function(a){a=a||this;if(null==a.getAtt
         }
     }
 
-        var o = {"pageName":"Browse","pageType":"Search Page","server":"www.flipkart.com","products":null,"events":["event18","event43","event6"],"hier1":null,"hier2":null,"hier3":null,"hier4":null,"hier5":null,"prop1":null,"prop2":null,"prop3":"Search Page","prop4":null,"prop5":null,"prop6":"laptop","prop7":null,"prop8":null,"prop9":null,"prop10":null,"prop11":null,"prop12":null,"prop13":null,"prop14":null,"prop15":null,"prop16":null,"prop17":null,"prop18":null,"prop19":null,"prop20":null,"prop21":null,"prop22":null,"prop23":null,"prop24":null,"prop25":null,"prop26":null,"prop27":null,"prop28":null,"prop29":null,"prop30":null,"prop31":null,"prop32":null,"prop33":null,"prop34":null,"prop35":null,"prop36":null,"prop37":null,"prop38":null,"prop39":null,"prop40":null,"prop41":null,"prop42":null,"prop43":null,"prop44":null,"prop45":null,"prop46":null,"prop47":null,"prop48":null,"prop49":null,"prop50":null,"prop51":null,"prop52":null,"prop53":null,"prop54":null,"prop55":null,"prop56":null,"prop57":null,"prop58":null,"prop59":null,"prop60":null,"prop61":null,"prop62":null,"prop63":null,"prop64":null,"prop65":null,"prop66":"TI146137497600000037461540564740134528223273754233101357022576222372","prop67":null,"prop68":null,"prop69":null,"prop70":null,"prop71":null,"prop72":null,"prop73":null,"prop74":null,"prop75":null,"prop76":null,"eVar1":"Browse","eVar2":null,"eVar3":"Search Page","eVar4":"logout","eVar5":"","eVar6":"laptop","eVar7":null,"eVar8":null,"eVar9":null,"eVar10":null,"eVar11":null,"eVar12":null,"eVar13":null,"eVar14":null,"eVar15":null,"eVar16":null,"eVar17":null,"eVar18":null,"eVar19":null,"eVar20":null,"eVar21":null,"eVar22":null,"eVar23":null,"eVar24":null,"eVar25":null,"eVar26":null,"eVar27":null,"eVar28":null,"eVar29":null,"eVar30":null,"eVar31":null,"eVar32":null,"eVar33":null,"eVar34":null,"eVar35":null,"eVar36":null,"eVar37":null,"eVar38":null,"eVar39":null,"eVar40":null,"eVar41":null,"eVar42":null,"eVar43":null,"eVar44":null,"eVar45":null,"eVar46":null,"eVar47":null,"eVar48":null,"eVar49":null,"eVar50":null,"eVar51":null,"eVar52":null,"eVar53":null,"eVar54":null,"eVar55":null,"eVar56":null,"eVar57":null,"eVar58":null,"eVar59":null,"eVar60":null,"eVar61":null,"eVar62":null,"eVar63":null,"eVar64":null,"eVar65":null,"eVar66":null,"eVar67":null,"eVar68":null,"eVar69":null,"eVar70":null,"eVar71":null,"eVar72":null,"eVar73":null,"eVar74":"","eVar75":null,"list1":null,"list2":null,"list3":null,"campaign":null,"pageURL":"http://www.flipkart.com/search?q=laptop&sid=search.flipkart.com&storePath=search.flipkart.com&type=pr&redirectToResponseURL=false&redirection=true","referrer":null,"visitorID":"","product":null,"purchaseID":null};
+        var o = {"pageName":"Browse","pageType":"Search Page","server":"www.flipkart.com","products":null,"events":["event18","event43","event6"],"hier1":null,"hier2":null,"hier3":null,"hier4":null,"hier5":null,"prop1":null,"prop2":null,"prop3":"Search Page","prop4":null,"prop5":null,"prop6":"laptop","prop7":null,"prop8":null,"prop9":null,"prop10":null,"prop11":null,"prop12":null,"prop13":null,"prop14":null,"prop15":null,"prop16":null,"prop17":null,"prop18":null,"prop19":null,"prop20":null,"prop21":null,"prop22":null,"prop23":null,"prop24":null,"prop25":null,"prop26":null,"prop27":null,"prop28":null,"prop29":null,"prop30":null,"prop31":null,"prop32":null,"prop33":null,"prop34":null,"prop35":null,"prop36":null,"prop37":null,"prop38":null,"prop39":null,"prop40":null,"prop41":null,"prop42":null,"prop43":null,"prop44":null,"prop45":null,"prop46":null,"prop47":null,"prop48":null,"prop49":null,"prop50":null,"prop51":null,"prop52":null,"prop53":null,"prop54":null,"prop55":null,"prop56":null,"prop57":null,"prop58":null,"prop59":null,"prop60":null,"prop61":null,"prop62":null,"prop63":null,"prop64":null,"prop65":null,"prop66":"TI146140825600000050412170864036502821576533141422866752830722425602","prop67":null,"prop68":null,"prop69":null,"prop70":null,"prop71":null,"prop72":null,"prop73":null,"prop74":null,"prop75":null,"prop76":null,"eVar1":"Browse","eVar2":null,"eVar3":"Search Page","eVar4":"logout","eVar5":"","eVar6":"laptop","eVar7":null,"eVar8":null,"eVar9":null,"eVar10":null,"eVar11":null,"eVar12":null,"eVar13":null,"eVar14":null,"eVar15":null,"eVar16":null,"eVar17":null,"eVar18":null,"eVar19":null,"eVar20":null,"eVar21":null,"eVar22":null,"eVar23":null,"eVar24":null,"eVar25":null,"eVar26":null,"eVar27":null,"eVar28":null,"eVar29":null,"eVar30":null,"eVar31":null,"eVar32":null,"eVar33":null,"eVar34":null,"eVar35":null,"eVar36":null,"eVar37":null,"eVar38":null,"eVar39":null,"eVar40":null,"eVar41":null,"eVar42":null,"eVar43":null,"eVar44":null,"eVar45":null,"eVar46":null,"eVar47":null,"eVar48":null,"eVar49":null,"eVar50":null,"eVar51":null,"eVar52":null,"eVar53":null,"eVar54":null,"eVar55":null,"eVar56":null,"eVar57":null,"eVar58":null,"eVar59":null,"eVar60":null,"eVar61":null,"eVar62":null,"eVar63":null,"eVar64":null,"eVar65":null,"eVar66":null,"eVar67":null,"eVar68":null,"eVar69":null,"eVar70":null,"eVar71":null,"eVar72":null,"eVar73":null,"eVar74":"","eVar75":null,"list1":null,"list2":null,"list3":null,"campaign":null,"pageURL":"http://www.flipkart.com/search?q=laptop&sid=search.flipkart.com&storePath=search.flipkart.com&type=pr&redirectToResponseURL=false&redirection=true","referrer":null,"visitorID":"","product":null,"purchaseID":null};
         for (var key in o) {
             if(key != "events") {
                 s[key] = o[key];
